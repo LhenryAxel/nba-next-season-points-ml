@@ -1,0 +1,5 @@
+comparaison,valeurs_distinctes_a,valeurs_distinctes_b,correspondances_normalisees,uniquement_a,uniquement_b
+player_bio.COUNTRY VS kaggle_all_seasons.country,78,82,72,6,10
+player_bio.COLLEGE VS kaggle_all_seasons.college,337,354,301,36,52
+player_bio.COLLEGE VS rosters.SCHOOL,337,473,309,28,164
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,36,36,36,0,0

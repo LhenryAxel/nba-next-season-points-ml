@@ -1,0 +1,8 @@
+source,lignes,cle_candidate,lignes_cle_manquante,lignes_doublons_cle,groupes_doublons_cle,lignes_doublons_exacts,pourcentage_doublons_cle,statut
+player_bio,12846,PLAYER_ID + SEASON,0,0,0,0,0.0,OK
+player_stats_base,12846,PLAYER_ID + SEASON,0,0,0,0,0.0,OK
+player_stats_advanced,12846,PLAYER_ID + SEASON,0,0,0,0,0.0,OK
+team_stats_base,802,TEAM_ID + SEASON,0,0,0,0,0.0,OK
+team_stats_advanced,802,TEAM_ID + SEASON,0,0,0,0,0.0,OK
+rosters,11672,PLAYER_ID + TeamID + SEASON,0,0,0,0,0.0,OK
+kaggle_all_seasons,12844,player_name + season,0,8,4,0,0.0623,À analyser

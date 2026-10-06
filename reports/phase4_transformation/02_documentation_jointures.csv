@@ -1,0 +1,6 @@
+jointure,table_gauche,table_droite,cle,type,cardinalite,lignes_avant,lignes_apres,correspondances,taux_correspondance
+1,player_stats_base,player_bio,PLAYER_ID + SEASON,left,1-1,12846,12846,12846,100.0
+2,dataset joueur,player_stats_advanced,PLAYER_ID + SEASON,left,1-1,12846,12846,12846,100.0
+3,team_stats_base,team_stats_advanced,TEAM_ID + SEASON,left,1-1,802,802,802,100.0
+4,dataset joueur,team_stats_base + team_stats_advanced,TEAM_ID + SEASON,left,N-1,12846,12846,12846,100.0
+5,dataset joueur,rosters,PLAYER_ID + SEASON,left,1-1,12846,12846,11444,89.09

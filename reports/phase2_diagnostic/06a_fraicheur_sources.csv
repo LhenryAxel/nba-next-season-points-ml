@@ -1,0 +1,8 @@
+source,colonne_temporelle,saison_min,saison_max,nombre_saisons,nombre_trous,saisons_manquantes,saisons_hors_perimetre,periode_attendue,conforme
+player_bio,SEASON,1996-97,2022-23,27,0,,,1996-97 à 2022-23,Oui
+player_stats_base,SEASON,1996-97,2022-23,27,0,,,1996-97 à 2022-23,Oui
+player_stats_advanced,SEASON,1996-97,2022-23,27,0,,,1996-97 à 2022-23,Oui
+team_stats_base,SEASON,1996-97,2022-23,27,0,,,1996-97 à 2022-23,Oui
+team_stats_advanced,SEASON,1996-97,2022-23,27,0,,,1996-97 à 2022-23,Oui
+rosters,SEASON,1996-97,2022-23,27,0,,,1996-97 à 2022-23,Oui
+kaggle_all_seasons,season,1996-97,2022-23,27,0,,,1996-97 à 2022-23,Oui

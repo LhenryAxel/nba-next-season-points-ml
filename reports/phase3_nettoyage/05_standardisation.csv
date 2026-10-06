@@ -1,0 +1,8 @@
+source,colonne,transformation,lignes_affectees
+rosters,SCHOOL,Suppression des espaces externes,2
+kaggle_all_seasons,college,Suppression des espaces externes,7
+player_stats_base,NICKNAME,Mapping de variantes orthographiques,15
+player_stats_advanced,NICKNAME,Mapping de variantes orthographiques,15
+rosters,NICKNAME,Mapping de variantes orthographiques,19
+kaggle_all_seasons,college,Mapping d'une variante d'établissement,9
+rosters,EXP_YEARS,Rookie R converti en 0 année d'expérience,1894

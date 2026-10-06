@@ -1,0 +1,252 @@
+colonne,type,description,unite,valeurs_ou_plage,source,transformation,nb_manquants,pct_manquant,nb_uniques
+PLAYER_ID,int64,Identifiant NBA unique du joueur.,Identifiant,3.000 à 1630846.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,1909
+PLAYER_NAME,string,Nom complet du joueur.,Catégorie,1906 valeurs distinctes,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,1906
+SEASON,string,Saison NBA correspondant à l'observation.,Saison,26 valeurs distinctes,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,26
+SEASON_START_YEAR,int64,Statistique NBA : SEASON_START_YEAR.,Valeur numérique / catégorie,1996.000 à 2021.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,26
+SEASON_INDEX,int64,Statistique NBA : SEASON_INDEX.,Valeur numérique / catégorie,0.000 à 25.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,26
+TEAM_ID,int64,Identifiant NBA de l'équipe.,Identifiant,1610612737.000 à 1610612766.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_ABBREVIATION,object,Abréviation de l'équipe.,Catégorie,36 valeurs distinctes,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,36
+AGE,float64,Âge du joueur lors de la saison.,Années,18.000 à 42.000,NBA API - biographie joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,25
+AGE_GROUP,category,Classe d'âge du joueur.,Catégorie,"22_or_less, 23_27, 28_31, 32_plus",Feature engineering Phase 4,Variable calculée lors du feature engineering.,0,0.0,4
+POSITION,object,Poste indiqué dans le roster NBA.,Catégorie,"C, C-F, F, F-C, F-G, G, G-F",NBA API - roster,"Nettoyage, harmonisation et jointure des sources NBA.",505,5.1,7
+EXP_YEARS,Int64,Statistique NBA : EXP_YEARS.,Saisons,0.000 à 20.000,NBA API - roster,"Nettoyage, harmonisation et jointure des sources NBA.",505,5.1,21
+EXPERIENCE_GROUP,category,Classe d'expérience NBA du joueur.,Catégorie,"1_3_years, 4_7_years, 8_plus_years, rookie",Feature engineering Phase 4,Variable calculée lors du feature engineering.,505,5.1,4
+ROSTER_AVAILABLE,Int8,Indique si les informations de roster sont disponibles.,Indicateur binaire,0.000 à 1.000,Feature engineering Phase 4,Variable calculée lors du feature engineering.,0,0.0,2
+HAS_PREVIOUS_SEASON,Int8,Indique si une saison précédente est disponible.,Indicateur binaire,0.000 à 1.000,Feature engineering Phase 4,Variable calculée lors du feature engineering.,0,0.0,2
+MULTI_TEAM_SEASON,Int8,Indique si le joueur a évolué pour plusieurs équipes durant la saison.,Indicateur binaire,0.000 à 1.000,Feature engineering Phase 4,Variable calculée lors du feature engineering.,0,0.0,2
+IS_ROOKIE,Int8,Indique si le joueur est rookie.,Indicateur binaire,0.000 à 1.000,Feature engineering Phase 4,Variable calculée lors du feature engineering.,505,5.1,2
+NICKNAME,string,Nom ou surnom du joueur.,Catégorie,1019 valeurs distinctes,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,1019
+GP,int64,Statistique NBA : GP.,Valeur numérique / catégorie,1.000 à 85.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,84
+W,int64,Statistique NBA : W.,Valeur numérique / catégorie,0.000 à 73.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,71
+L,int64,Statistique NBA : L.,Valeur numérique / catégorie,0.000 à 71.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,72
+W_PCT,float64,Pourcentage ou ratio NBA correspondant à W_PCT.,Ratio / pourcentage,0.000 à 1.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,702
+MIN,float64,Statistique NBA : MIN.,Valeur numérique / catégorie,0.200 à 43.700,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,421
+FGM,float64,Statistique NBA : FGM.,Valeur numérique / catégorie,0.000 à 12.200,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,117
+FGA,float64,Statistique NBA : FGA.,Valeur numérique / catégorie,0.000 à 27.800,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,241
+FG_PCT,float64,Pourcentage ou ratio NBA correspondant à FG_PCT.,Ratio / pourcentage,0.000 à 1.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,460
+FG3M,float64,Statistique NBA : FG3M.,Valeur numérique / catégorie,0.000 à 5.300,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,47
+FG3A,float64,Statistique NBA : FG3A.,Valeur numérique / catégorie,0.000 à 13.200,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,104
+FG3_PCT,float64,Pourcentage ou ratio NBA correspondant à FG3_PCT.,Ratio / pourcentage,0.000 à 1.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,387
+FTM,float64,Statistique NBA : FTM.,Valeur numérique / catégorie,0.000 à 10.200,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,95
+FTA,float64,Statistique NBA : FTA.,Valeur numérique / catégorie,0.000 à 13.100,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,116
+FT_PCT,float64,Pourcentage ou ratio NBA correspondant à FT_PCT.,Ratio / pourcentage,0.000 à 1.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,585
+OREB,float64,Statistique NBA : OREB.,Valeur numérique / catégorie,0.000 à 6.800,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,58
+DREB,float64,Statistique NBA : DREB.,Valeur numérique / catégorie,0.000 à 11.500,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,112
+REB,float64,Statistique NBA : REB.,Valeur numérique / catégorie,0.000 à 16.300,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,153
+AST,float64,Statistique NBA : AST.,Valeur numérique / catégorie,0.000 à 11.700,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,115
+TOV,float64,Statistique NBA : TOV.,Valeur numérique / catégorie,0.000 à 5.700,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,51
+STL,float64,Statistique NBA : STL.,Valeur numérique / catégorie,0.000 à 2.900,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+BLK,float64,Statistique NBA : BLK.,Valeur numérique / catégorie,0.000 à 3.900,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,39
+BLKA,float64,Statistique NBA : BLKA.,Valeur numérique / catégorie,0.000 à 2.200,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,23
+PF,float64,Statistique NBA : PF.,Valeur numérique / catégorie,0.000 à 6.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,48
+PFD,float64,Statistique NBA : PFD.,Valeur numérique / catégorie,0.000 à 9.800,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,89
+PTS,float64,Statistique NBA : PTS.,Valeur numérique / catégorie,0.000 à 36.100,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,314
+PLUS_MINUS,float64,Statistique NBA : PLUS_MINUS.,Valeur numérique / catégorie,-18.000 à 14.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,215
+NBA_FANTASY_PTS,float64,Statistique NBA : NBA_FANTASY_PTS.,Valeur numérique / catégorie,-2.000 à 60.600,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,544
+DD2,int64,Statistique NBA : DD2.,Valeur numérique / catégorie,0.000 à 71.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,70
+TD3,int64,Statistique NBA : TD3.,Valeur numérique / catégorie,0.000 à 42.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,23
+WNBA_FANTASY_PTS,float64,Statistique NBA : WNBA_FANTASY_PTS.,Valeur numérique / catégorie,0.000 à 60.700,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,513
+GP_RANK,int64,Statistique NBA : GP_RANK.,Valeur numérique / catégorie,1.000 à 589.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,471
+W_RANK,int64,Statistique NBA : W_RANK.,Valeur numérique / catégorie,1.000 à 580.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,458
+L_RANK,int64,Statistique NBA : L_RANK.,Valeur numérique / catégorie,1.000 à 584.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,454
+W_PCT_RANK,int64,Statistique NBA : W_PCT_RANK.,Ratio / pourcentage,1.000 à 580.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,548
+MIN_RANK,int64,Statistique NBA : MIN_RANK.,Valeur numérique / catégorie,1.000 à 587.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,553
+FGM_RANK,int64,Statistique NBA : FGM_RANK.,Valeur numérique / catégorie,1.000 à 578.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,541
+FGA_RANK,int64,Statistique NBA : FGA_RANK.,Valeur numérique / catégorie,1.000 à 589.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,546
+FG_PCT_RANK,int64,Statistique NBA : FG_PCT_RANK.,Ratio / pourcentage,1.000 à 578.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,536
+FG3M_RANK,int64,Statistique NBA : FG3M_RANK.,Valeur numérique / catégorie,1.000 à 514.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,495
+FG3A_RANK,int64,Statistique NBA : FG3A_RANK.,Valeur numérique / catégorie,1.000 à 562.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,548
+FG3_PCT_RANK,int64,Statistique NBA : FG3_PCT_RANK.,Ratio / pourcentage,1.000 à 514.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,482
+FTM_RANK,int64,Statistique NBA : FTM_RANK.,Valeur numérique / catégorie,1.000 à 543.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,519
+FTA_RANK,int64,Statistique NBA : FTA_RANK.,Valeur numérique / catégorie,1.000 à 547.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,527
+FT_PCT_RANK,int64,Statistique NBA : FT_PCT_RANK.,Ratio / pourcentage,1.000 à 543.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,521
+OREB_RANK,int64,Statistique NBA : OREB_RANK.,Valeur numérique / catégorie,1.000 à 557.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,531
+DREB_RANK,int64,Statistique NBA : DREB_RANK.,Valeur numérique / catégorie,1.000 à 583.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,543
+REB_RANK,int64,Statistique NBA : REB_RANK.,Valeur numérique / catégorie,1.000 à 586.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,536
+AST_RANK,int64,Statistique NBA : AST_RANK.,Valeur numérique / catégorie,1.000 à 569.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,540
+TOV_RANK,int64,Statistique NBA : TOV_RANK.,Valeur numérique / catégorie,1.000 à 566.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,534
+STL_RANK,int64,Statistique NBA : STL_RANK.,Valeur numérique / catégorie,1.000 à 554.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,532
+BLK_RANK,int64,Statistique NBA : BLK_RANK.,Valeur numérique / catégorie,1.000 à 520.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,509
+BLKA_RANK,int64,Statistique NBA : BLKA_RANK.,Valeur numérique / catégorie,1.000 à 537.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,514
+PF_RANK,int64,Statistique NBA : PF_RANK.,Valeur numérique / catégorie,1.000 à 584.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,543
+PFD_RANK,int64,Statistique NBA : PFD_RANK.,Valeur numérique / catégorie,1.000 à 564.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,531
+PTS_RANK,int64,Statistique NBA : PTS_RANK.,Valeur numérique / catégorie,1.000 à 582.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,539
+PLUS_MINUS_RANK,int64,Statistique NBA : PLUS_MINUS_RANK.,Valeur numérique / catégorie,1.000 à 603.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,566
+NBA_FANTASY_PTS_RANK,int64,Statistique NBA : NBA_FANTASY_PTS_RANK.,Valeur numérique / catégorie,1.000 à 595.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,545
+DD2_RANK,int64,Statistique NBA : DD2_RANK.,Valeur numérique / catégorie,1.000 à 268.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,176
+TD3_RANK,int64,Statistique NBA : TD3_RANK.,Valeur numérique / catégorie,1.000 à 40.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+WNBA_FANTASY_PTS_RANK,int64,Statistique NBA : WNBA_FANTASY_PTS_RANK.,Valeur numérique / catégorie,1.000 à 594.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,543
+TEAM_COUNT,int64,Statistique NBA : TEAM_COUNT.,Valeur numérique / catégorie,1.000 à 3.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,3
+COLLEGE,string,Statistique NBA : COLLEGE.,Catégorie,274 valeurs distinctes,NBA API - biographie joueur,"Nettoyage, harmonisation et jointure des sources NBA.",1460,14.73,274
+COUNTRY,string,Statistique NBA : COUNTRY.,Catégorie,73 valeurs distinctes,NBA API - biographie joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,73
+DRAFT_YEAR,object,Statistique NBA : DRAFT_YEAR.,Valeur numérique / catégorie,44 valeurs distinctes,NBA API - biographie joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,44
+DRAFT_ROUND,object,Statistique NBA : DRAFT_ROUND.,Valeur numérique / catégorie,"0, 1, 2, 3, 4, 6, 7, 8, Undrafted",NBA API - biographie joueur,"Nettoyage, harmonisation et jointure des sources NBA.",31,0.31,9
+DRAFT_NUMBER,object,Statistique NBA : DRAFT_NUMBER.,Valeur numérique / catégorie,66 valeurs distinctes,NBA API - biographie joueur,"Nettoyage, harmonisation et jointure des sources NBA.",38,0.38,66
+PLAYER_HEIGHT_CM,Float64,Statistique NBA : PLAYER_HEIGHT_CM.,Valeur numérique / catégorie,160.020 à 231.140,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",10,0.1,25
+PLAYER_WEIGHT_KG,Float64,Statistique NBA : PLAYER_WEIGHT_KG.,Valeur numérique / catégorie,60.328 à 155.582,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",10,0.1,146
+COLLEGE_IS_MISSING,Int8,Statistique NBA : COLLEGE_IS_MISSING.,Valeur numérique / catégorie,0.000 à 1.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,2
+DRAFT_INFO_IS_MISSING,Int8,Statistique NBA : DRAFT_INFO_IS_MISSING.,Valeur numérique / catégorie,0.000 à 1.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,2
+PLAYER_HEIGHT_IS_MISSING,Int8,Statistique NBA : PLAYER_HEIGHT_IS_MISSING.,Valeur numérique / catégorie,0.000 à 1.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,2
+PLAYER_WEIGHT_IS_MISSING,Int8,Statistique NBA : PLAYER_WEIGHT_IS_MISSING.,Valeur numérique / catégorie,0.000 à 1.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,2
+E_OFF_RATING,float64,Rating NBA correspondant à E_OFF_RATING.,Rating,0.000 à 300.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,448
+OFF_RATING,float64,Rating NBA correspondant à OFF_RATING.,Rating,0.000 à 250.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,458
+sp_work_OFF_RATING,float64,Rating NBA correspondant à sp_work_OFF_RATING.,Rating,0.000 à 250.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,458
+E_DEF_RATING,float64,Rating NBA correspondant à E_DEF_RATING.,Rating,0.000 à 225.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,430
+DEF_RATING,float64,Rating NBA correspondant à DEF_RATING.,Rating,0.000 à 225.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,423
+sp_work_DEF_RATING,float64,Rating NBA correspondant à sp_work_DEF_RATING.,Rating,0.000 à 225.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,423
+E_NET_RATING,float64,Rating NBA correspondant à E_NET_RATING.,Rating,-200.000 à 300.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,539
+NET_RATING,float64,Rating NBA correspondant à NET_RATING.,Rating,-200.000 à 250.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,547
+sp_work_NET_RATING,float64,Rating NBA correspondant à sp_work_NET_RATING.,Rating,-200.000 à 250.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,547
+AST_PCT,float64,Pourcentage ou ratio NBA correspondant à AST_PCT.,Ratio / pourcentage,0.000 à 1.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,466
+AST_TO,float64,Statistique NBA : AST_TO.,Valeur numérique / catégorie,0.000 à 20.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,445
+AST_RATIO,float64,Statistique NBA : AST_RATIO.,Valeur numérique / catégorie,0.000 à 75.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,445
+OREB_PCT,float64,Pourcentage ou ratio NBA correspondant à OREB_PCT.,Ratio / pourcentage,0.000 à 0.333,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,177
+DREB_PCT,float64,Pourcentage ou ratio NBA correspondant à DREB_PCT.,Ratio / pourcentage,0.000 à 1.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,304
+REB_PCT,float64,Pourcentage ou ratio NBA correspondant à REB_PCT.,Ratio / pourcentage,0.000 à 0.500,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,223
+TM_TOV_PCT,float64,Pourcentage ou ratio NBA correspondant à TM_TOV_PCT.,Ratio / pourcentage,0.000 à 100.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,267
+E_TOV_PCT,float64,Pourcentage ou ratio NBA correspondant à E_TOV_PCT.,Ratio / pourcentage,0.000 à 100.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,279
+EFG_PCT,float64,Pourcentage ou ratio NBA correspondant à EFG_PCT.,Ratio / pourcentage,0.000 à 1.500,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,459
+TS_PCT,float64,Pourcentage ou ratio NBA correspondant à TS_PCT.,Ratio / pourcentage,0.000 à 1.500,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,464
+USG_PCT,float64,Pourcentage ou ratio NBA correspondant à USG_PCT.,Ratio / pourcentage,0.000 à 0.667,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,315
+E_USG_PCT,float64,Pourcentage ou ratio NBA correspondant à E_USG_PCT.,Ratio / pourcentage,0.000 à 1.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,323
+E_PACE,float64,Statistique NBA : E_PACE.,Valeur numérique / catégorie,58.060 à 257.540,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,1919
+PACE,float64,Statistique NBA : PACE.,Valeur numérique / catégorie,72.810 à 320.590,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,1935
+PACE_PER40,float64,Statistique NBA : PACE_PER40.,Valeur numérique / catégorie,60.670 à 267.160,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,1669
+sp_work_PACE,float64,Statistique NBA : sp_work_PACE.,Valeur numérique / catégorie,72.810 à 320.590,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,1935
+PIE,float64,Statistique NBA : PIE.,Valeur numérique / catégorie,-2.000 à 1.077,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,302
+POSS,int64,Statistique NBA : POSS.,Valeur numérique / catégorie,1.000 à 7195.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,4908
+FGM_PG,float64,Statistique NBA par match correspondant à FGM_PG.,Par match,0.000 à 12.200,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,117
+FGA_PG,float64,Statistique NBA par match correspondant à FGA_PG.,Par match,0.000 à 27.800,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,241
+E_OFF_RATING_RANK,int64,Rating NBA correspondant à E_OFF_RATING_RANK.,Rating,1.000 à 601.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,550
+OFF_RATING_RANK,int64,Rating NBA correspondant à OFF_RATING_RANK.,Rating,1.000 à 599.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,554
+sp_work_OFF_RATING_RANK,int64,Rating NBA correspondant à sp_work_OFF_RATING_RANK.,Rating,1.000 à 599.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,554
+E_DEF_RATING_RANK,int64,Rating NBA correspondant à E_DEF_RATING_RANK.,Rating,1.000 à 593.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,555
+DEF_RATING_RANK,int64,Rating NBA correspondant à DEF_RATING_RANK.,Rating,1.000 à 599.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,557
+sp_work_DEF_RATING_RANK,int64,Rating NBA correspondant à sp_work_DEF_RATING_RANK.,Rating,1.000 à 599.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,557
+E_NET_RATING_RANK,int64,Rating NBA correspondant à E_NET_RATING_RANK.,Rating,1.000 à 598.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,549
+NET_RATING_RANK,int64,Rating NBA correspondant à NET_RATING_RANK.,Rating,1.000 à 604.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,549
+sp_work_NET_RATING_RANK,int64,Rating NBA correspondant à sp_work_NET_RATING_RANK.,Rating,1.000 à 604.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,549
+AST_PCT_RANK,int64,Statistique NBA : AST_PCT_RANK.,Ratio / pourcentage,1.000 à 569.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,550
+AST_TO_RANK,int64,Statistique NBA : AST_TO_RANK.,Valeur numérique / catégorie,1.000 à 549.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,532
+AST_RATIO_RANK,int64,Statistique NBA : AST_RATIO_RANK.,Valeur numérique / catégorie,1.000 à 569.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,554
+OREB_PCT_RANK,int64,Statistique NBA : OREB_PCT_RANK.,Ratio / pourcentage,1.000 à 557.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,545
+DREB_PCT_RANK,int64,Statistique NBA : DREB_PCT_RANK.,Ratio / pourcentage,1.000 à 583.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,557
+REB_PCT_RANK,int64,Statistique NBA : REB_PCT_RANK.,Ratio / pourcentage,1.000 à 586.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,559
+TM_TOV_PCT_RANK,int64,Statistique NBA : TM_TOV_PCT_RANK.,Ratio / pourcentage,1.000 à 602.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,563
+E_TOV_PCT_RANK,int64,Statistique NBA : E_TOV_PCT_RANK.,Ratio / pourcentage,1.000 à 602.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,566
+EFG_PCT_RANK,int64,Statistique NBA : EFG_PCT_RANK.,Ratio / pourcentage,1.000 à 578.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,539
+TS_PCT_RANK,int64,Statistique NBA : TS_PCT_RANK.,Ratio / pourcentage,1.000 à 582.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,540
+USG_PCT_RANK,int64,Statistique NBA : USG_PCT_RANK.,Ratio / pourcentage,1.000 à 590.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,564
+E_USG_PCT_RANK,int64,Statistique NBA : E_USG_PCT_RANK.,Ratio / pourcentage,1.000 à 591.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,565
+E_PACE_RANK,int64,Statistique NBA : E_PACE_RANK.,Valeur numérique / catégorie,1.000 à 603.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,570
+PACE_RANK,int64,Statistique NBA : PACE_RANK.,Valeur numérique / catégorie,1.000 à 604.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,585
+sp_work_PACE_RANK,int64,Statistique NBA : sp_work_PACE_RANK.,Valeur numérique / catégorie,1.000 à 604.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,585
+PIE_RANK,int64,Statistique NBA : PIE_RANK.,Valeur numérique / catégorie,1.000 à 604.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,541
+FGM_PG_RANK,int64,Statistique NBA : FGM_PG_RANK.,Valeur numérique / catégorie,1.000 à 578.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,541
+FGA_PG_RANK,int64,Statistique NBA : FGA_PG_RANK.,Valeur numérique / catégorie,1.000 à 589.000,NBA API - statistiques joueur,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,546
+TEAM_GP,int64,Statistique NBA : TEAM_GP.,Valeur numérique / catégorie,50.000 à 82.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,12
+TEAM_W,int64,Statistique NBA : TEAM_W.,Valeur numérique / catégorie,7.000 à 73.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,63
+TEAM_L,int64,Statistique NBA : TEAM_L.,Valeur numérique / catégorie,9.000 à 72.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,60
+TEAM_W_PCT,float64,Pourcentage ou ratio NBA correspondant à TEAM_W_PCT.,Ratio / pourcentage,0.106 à 0.890,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,136
+TEAM_MIN,float64,Statistique NBA : TEAM_MIN.,Valeur numérique / catégorie,48.000 à 49.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,11
+TEAM_FGM,float64,Statistique NBA : TEAM_FGM.,Valeur numérique / catégorie,30.800 à 44.700,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,117
+TEAM_FGA,float64,Statistique NBA : TEAM_FGA.,Valeur numérique / catégorie,71.200 à 94.400,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,172
+TEAM_FG_PCT,float64,Pourcentage ou ratio NBA correspondant à TEAM_FG_PCT.,Ratio / pourcentage,0.401 à 0.504,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,88
+TEAM_FG3M,float64,Statistique NBA : TEAM_FG3M.,Valeur numérique / catégorie,2.000 à 16.700,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,128
+TEAM_FG3A,float64,Statistique NBA : TEAM_FG3A.,Valeur numérique / catégorie,7.400 à 45.400,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,271
+TEAM_FG3_PCT,float64,Pourcentage ou ratio NBA correspondant à TEAM_FG3_PCT.,Ratio / pourcentage,0.264 à 0.428,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,107
+TEAM_FTM,float64,Statistique NBA : TEAM_FTM.,Valeur numérique / catégorie,12.200 à 24.900,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,99
+TEAM_FTA,float64,Statistique NBA : TEAM_FTA.,Valeur numérique / catégorie,16.600 à 33.500,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,127
+TEAM_FT_PCT,float64,Pourcentage ou ratio NBA correspondant à TEAM_FT_PCT.,Ratio / pourcentage,0.660 à 0.839,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,146
+TEAM_OREB,float64,Statistique NBA : TEAM_OREB.,Valeur numérique / catégorie,7.600 à 17.200,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,79
+TEAM_DREB,float64,Statistique NBA : TEAM_DREB.,Valeur numérique / catégorie,24.900 à 42.200,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,107
+TEAM_REB,float64,Statistique NBA : TEAM_REB.,Valeur numérique / catégorie,35.800 à 51.700,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,103
+TEAM_AST,float64,Statistique NBA : TEAM_AST.,Valeur numérique / catégorie,15.600 à 30.400,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,105
+TEAM_TOV,float64,Statistique NBA : TEAM_TOV.,Valeur numérique / catégorie,11.100 à 19.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,68
+TEAM_STL,float64,Statistique NBA : TEAM_STL.,Valeur numérique / catégorie,5.500 à 12.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,50
+TEAM_BLK,float64,Statistique NBA : TEAM_BLK.,Valeur numérique / catégorie,2.400 à 8.200,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,48
+TEAM_BLKA,float64,Statistique NBA : TEAM_BLKA.,Valeur numérique / catégorie,3.000 à 6.900,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,39
+TEAM_PF,float64,Statistique NBA : TEAM_PF.,Valeur numérique / catégorie,16.600 à 27.100,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,91
+TEAM_PFD,float64,Statistique NBA : TEAM_PFD.,Valeur numérique / catégorie,0.000 à 25.700,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,94
+TEAM_PTS,float64,Statistique NBA : TEAM_PTS.,Valeur numérique / catégorie,81.900 à 120.100,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,269
+TEAM_PLUS_MINUS,float64,Statistique NBA : TEAM_PLUS_MINUS.,Valeur numérique / catégorie,-13.900 à 11.600,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,194
+TEAM_GP_RANK,int64,Statistique NBA : TEAM_GP_RANK.,Valeur numérique / catégorie,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,10
+TEAM_W_RANK,int64,Statistique NBA : TEAM_W_RANK.,Valeur numérique / catégorie,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_L_RANK,int64,Statistique NBA : TEAM_L_RANK.,Valeur numérique / catégorie,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_W_PCT_RANK,int64,Statistique NBA : TEAM_W_PCT_RANK.,Ratio / pourcentage,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_MIN_RANK,int64,Statistique NBA : TEAM_MIN_RANK.,Valeur numérique / catégorie,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_FGM_RANK,int64,Statistique NBA : TEAM_FGM_RANK.,Valeur numérique / catégorie,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_FGA_RANK,int64,Statistique NBA : TEAM_FGA_RANK.,Valeur numérique / catégorie,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_FG_PCT_RANK,int64,Statistique NBA : TEAM_FG_PCT_RANK.,Ratio / pourcentage,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_FG3M_RANK,int64,Statistique NBA : TEAM_FG3M_RANK.,Valeur numérique / catégorie,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_FG3A_RANK,int64,Statistique NBA : TEAM_FG3A_RANK.,Valeur numérique / catégorie,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_FG3_PCT_RANK,int64,Statistique NBA : TEAM_FG3_PCT_RANK.,Ratio / pourcentage,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_FTM_RANK,int64,Statistique NBA : TEAM_FTM_RANK.,Valeur numérique / catégorie,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_FTA_RANK,int64,Statistique NBA : TEAM_FTA_RANK.,Valeur numérique / catégorie,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_FT_PCT_RANK,int64,Statistique NBA : TEAM_FT_PCT_RANK.,Ratio / pourcentage,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_OREB_RANK,int64,Statistique NBA : TEAM_OREB_RANK.,Valeur numérique / catégorie,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_DREB_RANK,int64,Statistique NBA : TEAM_DREB_RANK.,Valeur numérique / catégorie,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_REB_RANK,int64,Statistique NBA : TEAM_REB_RANK.,Valeur numérique / catégorie,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_AST_RANK,int64,Statistique NBA : TEAM_AST_RANK.,Valeur numérique / catégorie,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_TOV_RANK,int64,Statistique NBA : TEAM_TOV_RANK.,Valeur numérique / catégorie,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_STL_RANK,int64,Statistique NBA : TEAM_STL_RANK.,Valeur numérique / catégorie,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_BLK_RANK,int64,Statistique NBA : TEAM_BLK_RANK.,Valeur numérique / catégorie,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_BLKA_RANK,int64,Statistique NBA : TEAM_BLKA_RANK.,Valeur numérique / catégorie,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_PF_RANK,int64,Statistique NBA : TEAM_PF_RANK.,Valeur numérique / catégorie,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_PFD_RANK,int64,Statistique NBA : TEAM_PFD_RANK.,Valeur numérique / catégorie,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_PTS_RANK,int64,Statistique NBA : TEAM_PTS_RANK.,Valeur numérique / catégorie,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_PLUS_MINUS_RANK,int64,Statistique NBA : TEAM_PLUS_MINUS_RANK.,Valeur numérique / catégorie,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_E_OFF_RATING,float64,Rating NBA correspondant à TEAM_E_OFF_RATING.,Rating,88.900 à 116.300,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,189
+TEAM_OFF_RATING,float64,Rating NBA correspondant à TEAM_OFF_RATING.,Rating,91.200 à 117.300,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,189
+TEAM_E_DEF_RATING,float64,Rating NBA correspondant à TEAM_E_DEF_RATING.,Rating,91.600 à 115.100,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,181
+TEAM_DEF_RATING,float64,Rating NBA correspondant à TEAM_DEF_RATING.,Rating,93.100 à 116.800,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,185
+TEAM_E_NET_RATING,float64,Rating NBA correspondant à TEAM_E_NET_RATING.,Rating,-15.500 à 12.100,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,209
+TEAM_NET_RATING,float64,Rating NBA correspondant à TEAM_NET_RATING.,Rating,-15.000 à 11.800,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,202
+TEAM_AST_PCT,float64,Pourcentage ou ratio NBA correspondant à TEAM_AST_PCT.,Ratio / pourcentage,0.472 à 0.727,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,186
+TEAM_AST_TO,float64,Statistique NBA : TEAM_AST_TO.,Valeur numérique / catégorie,1.010 à 2.190,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,105
+TEAM_AST_RATIO,float64,Statistique NBA : TEAM_AST_RATIO.,Valeur numérique / catégorie,13.000 à 21.200,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,64
+TEAM_OREB_PCT,float64,Pourcentage ou ratio NBA correspondant à TEAM_OREB_PCT.,Ratio / pourcentage,0.216 à 0.383,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,138
+TEAM_DREB_PCT,float64,Pourcentage ou ratio NBA correspondant à TEAM_DREB_PCT.,Ratio / pourcentage,0.602 à 0.775,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,124
+TEAM_REB_PCT,float64,Pourcentage ou ratio NBA correspondant à TEAM_REB_PCT.,Ratio / pourcentage,0.453 à 0.541,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,71
+TEAM_TM_TOV_PCT,float64,Pourcentage ou ratio NBA correspondant à TEAM_TM_TOV_PCT.,Ratio / pourcentage,0.112 à 0.208,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,72
+TEAM_EFG_PCT,float64,Pourcentage ou ratio NBA correspondant à TEAM_EFG_PCT.,Ratio / pourcentage,0.424 à 0.575,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,124
+TEAM_TS_PCT,float64,Pourcentage ou ratio NBA correspondant à TEAM_TS_PCT.,Ratio / pourcentage,0.468 à 0.610,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,115
+TEAM_E_PACE,float64,Statistique NBA : TEAM_E_PACE.,Valeur numérique / catégorie,85.200 à 107.200,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,167
+TEAM_PACE,float64,Statistique NBA : TEAM_PACE.,Valeur numérique / catégorie,84.310 à 105.510,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,580
+TEAM_PACE_PER40,float64,Statistique NBA : TEAM_PACE_PER40.,Valeur numérique / catégorie,70.250 à 87.930,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,554
+TEAM_POSS,int64,Statistique NBA : TEAM_POSS.,Valeur numérique / catégorie,4325.000 à 8642.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,599
+TEAM_PIE,float64,Statistique NBA : TEAM_PIE.,Valeur numérique / catégorie,0.402 à 0.591,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,160
+TEAM_OFF_RATING_RANK,int64,Rating NBA correspondant à TEAM_OFF_RATING_RANK.,Rating,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_DEF_RATING_RANK,int64,Rating NBA correspondant à TEAM_DEF_RATING_RANK.,Rating,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_NET_RATING_RANK,int64,Rating NBA correspondant à TEAM_NET_RATING_RANK.,Rating,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_AST_PCT_RANK,int64,Statistique NBA : TEAM_AST_PCT_RANK.,Ratio / pourcentage,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_AST_TO_RANK,int64,Statistique NBA : TEAM_AST_TO_RANK.,Valeur numérique / catégorie,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_AST_RATIO_RANK,int64,Statistique NBA : TEAM_AST_RATIO_RANK.,Valeur numérique / catégorie,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_OREB_PCT_RANK,int64,Statistique NBA : TEAM_OREB_PCT_RANK.,Ratio / pourcentage,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_DREB_PCT_RANK,int64,Statistique NBA : TEAM_DREB_PCT_RANK.,Ratio / pourcentage,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_REB_PCT_RANK,int64,Statistique NBA : TEAM_REB_PCT_RANK.,Ratio / pourcentage,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_TM_TOV_PCT_RANK,int64,Statistique NBA : TEAM_TM_TOV_PCT_RANK.,Ratio / pourcentage,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_EFG_PCT_RANK,int64,Statistique NBA : TEAM_EFG_PCT_RANK.,Ratio / pourcentage,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_TS_PCT_RANK,int64,Statistique NBA : TEAM_TS_PCT_RANK.,Ratio / pourcentage,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_PACE_RANK,int64,Statistique NBA : TEAM_PACE_RANK.,Valeur numérique / catégorie,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+TEAM_PIE_RANK,int64,Statistique NBA : TEAM_PIE_RANK.,Valeur numérique / catégorie,1.000 à 30.000,NBA API - statistiques équipe,"Nettoyage, harmonisation et jointure des sources NBA.",0,0.0,30
+PTS_PREV,float64,Points par match lors de la saison précédente.,Valeur numérique / catégorie,0.000 à 36.100,Feature engineering Phase 4,Variable calculée lors du feature engineering.,2018,20.36,309
+MIN_PREV,float64,Minutes par match lors de la saison précédente.,Valeur numérique / catégorie,0.500 à 43.700,Feature engineering Phase 4,Variable calculée lors du feature engineering.,2018,20.36,412
+AST_PREV,float64,Passes décisives par match lors de la saison précédente.,Valeur numérique / catégorie,0.000 à 11.700,Feature engineering Phase 4,Variable calculée lors du feature engineering.,2018,20.36,115
+REB_PREV,float64,Rebonds par match lors de la saison précédente.,Valeur numérique / catégorie,0.000 à 16.300,Feature engineering Phase 4,Variable calculée lors du feature engineering.,2018,20.36,151
+USG_PCT_PREV,float64,Taux d'utilisation lors de la saison précédente.,Ratio / pourcentage,0.000 à 0.500,Feature engineering Phase 4,Variable calculée lors du feature engineering.,2018,20.36,302
+PTS_CHANGE,float64,Variation des points par match par rapport à la saison précédente.,Valeur numérique / catégorie,-19.900 à 15.300,Feature engineering Phase 4,Variable calculée lors du feature engineering.,2018,20.36,806
+MIN_CHANGE,float64,Variation des minutes par match par rapport à la saison précédente.,Valeur numérique / catégorie,-29.200 à 38.700,Feature engineering Phase 4,Variable calculée lors du feature engineering.,2018,20.36,1208
+AST_CHANGE,float64,Variation des passes décisives par rapport à la saison précédente.,Valeur numérique / catégorie,-6.000 à 5.800,Feature engineering Phase 4,Variable calculée lors du feature engineering.,2018,20.36,341
+REB_CHANGE,float64,Variation des rebonds par rapport à la saison précédente.,Valeur numérique / catégorie,-7.500 à 10.200,Feature engineering Phase 4,Variable calculée lors du feature engineering.,2018,20.36,439
+USG_PCT_CHANGE,float64,Variation du taux d'utilisation par rapport à la saison précédente.,Ratio / pourcentage,-0.361 à 0.239,Feature engineering Phase 4,Variable calculée lors du feature engineering.,2018,20.36,628
+PTS_PER_MIN,float64,Nombre de points inscrits par minute jouée.,Valeur numérique / catégorie,0.000 à 6.000,Feature engineering Phase 4,Variable calculée lors du feature engineering.,0,0.0,6553
+FGA_PER_MIN,float64,Nombre de tirs tentés par minute jouée.,Valeur numérique / catégorie,0.000 à 2.000,Feature engineering Phase 4,Variable calculée lors du feature engineering.,0,0.0,6104
+FG3A_RATE,float64,Part des tirs tentés qui sont des tirs à trois points.,Ratio / pourcentage,0.000 à 1.000,Feature engineering Phase 4,Variable calculée lors du feature engineering.,11,0.11,3185
+FTA_RATE,float64,Rapport entre lancers francs tentés et tirs tentés.,Ratio / pourcentage,0.000 à 5.000,Feature engineering Phase 4,Variable calculée lors du feature engineering.,11,0.11,2893
+AST_TO_TOV,float64,Rapport entre passes décisives et pertes de balle.,Valeur numérique / catégorie,0.000 à 20.000,Feature engineering Phase 4,Variable calculée lors du feature engineering.,98,0.99,1111
+PTS_CAREER_AVG_PREV,float64,Moyenne historique des points avant la saison courante.,Valeur numérique / catégorie,0.000 à 29.150,Feature engineering Phase 4,Variable calculée lors du feature engineering.,1870,18.87,3315
+MIN_CAREER_AVG_PREV,float64,Moyenne historique des minutes avant la saison courante.,Valeur numérique / catégorie,0.500 à 42.500,Feature engineering Phase 4,Variable calculée lors du feature engineering.,1870,18.87,3973
+AST_CAREER_AVG_PREV,float64,Moyenne historique des passes avant la saison courante.,Valeur numérique / catégorie,0.000 à 11.400,Feature engineering Phase 4,Variable calculée lors du feature engineering.,1870,18.87,1966
+REB_CAREER_AVG_PREV,float64,Moyenne historique des rebonds avant la saison courante.,Valeur numérique / catégorie,0.000 à 16.100,Feature engineering Phase 4,Variable calculée lors du feature engineering.,1870,18.87,2341
+pts_next_season,float64,Points par match du joueur lors de la saison N+1.,Valeur numérique / catégorie,0.000 à 36.100,Feature engineering Phase 4,Décalage de PTS vers la saison suivante uniquement si N+1 est consécutive.,0,0.0,319

@@ -1,0 +1,10 @@
+element,valeur
+Nom,NBA player-season enriched dataset
+Date de création,2026-09-08
+Granularité,1 ligne = 1 PLAYER_ID + SEASON
+Nombre de lignes,12846
+Nombre de colonnes,251
+Période couverte,1996-97 à 2022-23
+Features dérivées créées,27
+Lignes avec cible,9911
+Cible ML,pts_next_season

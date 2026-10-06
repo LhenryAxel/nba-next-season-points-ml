@@ -1,0 +1,3 @@
+analyse,test,statistique,p_value,significatif_5pct
+Variation selon l'âge,Kruskal-Wallis,826.1386623423556,9.273850803969058e-179,True
+Variation selon l'expérience,Kruskal-Wallis,801.4967386849389,2.049398188460163e-173,True

@@ -1,0 +1,24 @@
+feature,correlation_avec_cible,intensite
+PTS,0.858,Forte
+FGA,0.838,Forte
+PTS_PREV,0.763,Forte
+FTA,0.762,Forte
+MIN,0.718,Forte
+PTS_CAREER_AVG_PREV,0.67,Modérée
+USG_PCT,0.668,Modérée
+USG_PCT_PREV,0.64,Modérée
+PTS_PER_MIN,0.638,Modérée
+FGA_PER_MIN,0.606,Modérée
+MIN_PREV,0.604,Modérée
+AST,0.553,Modérée
+MIN_CAREER_AVG_PREV,0.536,Modérée
+REB,0.472,Modérée
+FG3A,0.467,Modérée
+TS_PCT,0.269,Faible
+FG3_PCT,0.24,Faible
+PTS_CHANGE,0.202,Faible
+NET_RATING,0.192,Très faible
+USG_PCT_CHANGE,0.156,Très faible
+MIN_CHANGE,0.144,Très faible
+FG_PCT,0.144,Très faible
+AGE,-0.103,Très faible

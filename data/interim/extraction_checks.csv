@@ -1,0 +1,7 @@
+source,lignes,colonnes,colonnes_cle,lignes_cle_manquante,doublons_cle,doublons_exacts,nombre_saisons,periode_min,periode_max,statut
+player_bio,12846,25,PLAYER_ID + SEASON,0,0,0,27,1996-97,2022-23,OK
+player_stats_base,12846,69,PLAYER_ID + SEASON,0,0,0,27,1996-97,2022-23,OK
+player_stats_advanced,12846,81,PLAYER_ID + SEASON,0,0,0,27,1996-97,2022-23,OK
+team_stats_base,802,56,TEAM_ID + SEASON,0,0,0,27,1996-97,2022-23,OK
+team_stats_advanced,802,48,TEAM_ID + SEASON,0,0,0,27,1996-97,2022-23,OK
+rosters,11672,18,PLAYER_ID + TeamID + SEASON,0,0,0,27,1996-97,2022-23,OK

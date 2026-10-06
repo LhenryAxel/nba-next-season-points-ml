@@ -1,0 +1,9 @@
+source,colonne,type_actuel,taux_convertible_pct,valeurs_non_numeriques
+player_bio,PLAYER_WEIGHT,string,100.0,
+player_bio,DRAFT_YEAR,string,82.1423,Undrafted
+player_bio,DRAFT_ROUND,string,82.0093,Undrafted
+player_bio,DRAFT_NUMBER,string,81.9965,Undrafted
+rosters,EXP,string,83.7731,R
+kaggle_all_seasons,draft_year,object,81.6412,Undrafted
+kaggle_all_seasons,draft_round,object,81.2286,Undrafted
+kaggle_all_seasons,draft_number,object,81.2052,Undrafted

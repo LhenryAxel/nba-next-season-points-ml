@@ -1,0 +1,1016 @@
+comparaison,valeur_a,normalisee,valeur_b,_merge
+player_bio.COUNTRY VS kaggle_all_seasons.country,Angola,angola,Angola,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Antigua and Barbuda,antigua and barbuda,,left_only
+player_bio.COUNTRY VS kaggle_all_seasons.country,Argentina,argentina,Argentina,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Australia,australia,Australia,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Austria,austria,Austria,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Bahamas,bahamas,Bahamas,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Belgium,belgium,,left_only
+player_bio.COUNTRY VS kaggle_all_seasons.country,Belize,belize,Belize,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,,bosnia,Bosnia,right_only
+player_bio.COUNTRY VS kaggle_all_seasons.country,Bosnia and Herzegovina,bosnia and herzegovina,Bosnia and Herzegovina,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,,bosnia herzegovina,Bosnia & Herzegovina,right_only
+player_bio.COUNTRY VS kaggle_all_seasons.country,Brazil,brazil,Brazil,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Cabo Verde,cabo verde,Cabo Verde,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Cameroon,cameroon,Cameroon,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Canada,canada,Canada,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,China,china,China,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Colombia,colombia,Colombia,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Congo,congo,Congo,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Croatia,croatia,Croatia,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Cuba,cuba,,left_only
+player_bio.COUNTRY VS kaggle_all_seasons.country,Czech Republic,czech republic,Czech Republic,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Democratic Republic of the Congo,democratic republic of the congo,Democratic Republic of the Congo,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Denmark,denmark,Denmark,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Dominican Republic,dominican republic,Dominican Republic,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,DRC,drc,DRC,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Egypt,egypt,Egypt,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,,england,England,right_only
+player_bio.COUNTRY VS kaggle_all_seasons.country,Estonia,estonia,,left_only
+player_bio.COUNTRY VS kaggle_all_seasons.country,Finland,finland,Finland,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,France,france,France,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Gabon,gabon,Gabon,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Georgia,georgia,Georgia,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Germany,germany,Germany,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Ghana,ghana,Ghana,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,,great britain,Great Britain,right_only
+player_bio.COUNTRY VS kaggle_all_seasons.country,Greece,greece,Greece,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Guinea,guinea,Guinea,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Haiti,haiti,Haiti,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Iran,iran,Iran,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Ireland,ireland,Ireland,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Israel,israel,Israel,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Italy,italy,Italy,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Jamaica,jamaica,Jamaica,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Japan,japan,Japan,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Latvia,latvia,Latvia,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Lebanon,lebanon,,left_only
+player_bio.COUNTRY VS kaggle_all_seasons.country,Lithuania,lithuania,Lithuania,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Macedonia,macedonia,Macedonia,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Mali,mali,Mali,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Mexico,mexico,Mexico,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Montenegro,montenegro,Montenegro,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Netherlands,netherlands,Netherlands,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,New Zealand,new zealand,New Zealand,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Nigeria,nigeria,Nigeria,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Panama,panama,Panama,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Poland,poland,Poland,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Portugal,portugal,Portugal,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Puerto Rico,puerto rico,Puerto Rico,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,,republic of the congo,Republic of the Congo,right_only
+player_bio.COUNTRY VS kaggle_all_seasons.country,Romania,romania,,left_only
+player_bio.COUNTRY VS kaggle_all_seasons.country,Russia,russia,Russia,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Saint Lucia,saint lucia,Saint Lucia,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Scotland,scotland,Scotland,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Senegal,senegal,Senegal,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Serbia,serbia,Serbia,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,,serbia and montenegro,Serbia and Montenegro,right_only
+player_bio.COUNTRY VS kaggle_all_seasons.country,Slovenia,slovenia,Slovenia,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,South Korea,south korea,South Korea,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,South Sudan,south sudan,South Sudan,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Spain,spain,Spain,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,St. Vincent & Grenadines,st vincent grenadines,St. Vincent & Grenadines,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Sudan,sudan,Sudan,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,,sudan uk,Sudan (UK),right_only
+player_bio.COUNTRY VS kaggle_all_seasons.country,Sweden,sweden,Sweden,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Switzerland,switzerland,Switzerland,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Tanzania,tanzania,Tanzania,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Trinidad and Tobago,trinidad and tobago,Trinidad and Tobago,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Tunisia,tunisia,Tunisia,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Turkey,turkey,Turkey,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,,u s virgin islands,U.S. Virgin Islands,right_only
+player_bio.COUNTRY VS kaggle_all_seasons.country,Ukraine,ukraine,Ukraine,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,United Kingdom,united kingdom,United Kingdom,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,Uruguay,uruguay,Uruguay,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,US Virgin Islands,us virgin islands,US Virgin Islands,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,USA,usa,USA,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,,ussr,USSR,right_only
+player_bio.COUNTRY VS kaggle_all_seasons.country,Venezuela,venezuela,Venezuela,both
+player_bio.COUNTRY VS kaggle_all_seasons.country,,yugoslavia,Yugoslavia,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,,,,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Alabama,alabama,Alabama,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Alabama A&M,alabama a m,Alabama A&M,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Alabama-Birmingham,alabama birmingham,Alabama-Birmingham,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Alabama Huntsville,alabama huntsville,Alabama Huntsville,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Albany State (GA),albany state ga,Albany State (GA),both
+player_bio.COLLEGE VS kaggle_all_seasons.college,American International,american international,American International,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,American University,american university,American University,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Arizona,arizona,Arizona,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,arizona st,Arizona St.,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Arizona State,arizona state,Arizona State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Arkansas,arkansas,Arkansas,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Arkansas-Little Rock,arkansas little rock,Arkansas-Little Rock,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Auburn,auburn,Auburn,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Auburn-Montgomery,auburn montgomery,Auburn-Montgomery,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Augsburg,augsburg,Augsburg,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Augusta State,augusta state,Augusta State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Augustana (SD),augustana sd,Augustana (SD),both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Austin Peay,austin peay,Austin Peay,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Ball State,ball state,Ball State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,barton community college,Barton Community College,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Baylor,baylor,Baylor,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Belmont,belmont,Belmont,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,blinn,Blinn,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Blinn J.C.,blinn j c,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Boise State,boise state,Boise State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Boston College,boston college,Boston College,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,boston u,Boston U.,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Boston University,boston university,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Bowling Green,bowling green,Bowling Green,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Bradley,bradley,Bradley,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Brigham Young,brigham young,Brigham Young,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Brigham Young-Hawaii,brigham young hawaii,Brigham Young-Hawaii,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Bucknell,bucknell,Bucknell,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Buffalo,buffalo,Buffalo,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Butler,butler,Butler,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Butler C.C. (KS),butler c c ks,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,,butler community college,Butler Community College,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Cal-Davis,cal davis,Cal-Davis,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,cal poly,Cal Poly,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Cal Poly-Obispo,cal poly obispo,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Cal-Santa Barbara,cal santa barbara,Cal-Santa Barbara,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,cal state bakersfield,Cal State-Bakersfield,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Cal State-Fullerton,cal state fullerton,Cal State-Fullerton,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Cal State-Long Beach,cal state long beach,Cal State-Long Beach,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,cal state san bernardino,Cal State-San Bernardino,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,California,california,California,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,california berkeley,California-Berkeley,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,California-Irvine,california irvine,California-Irvine,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,california los angeles,California-Los Angeles,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,California-Santa Barbara,california santa barbara,California-Santa Barbara,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,California State-Bakersfield,california state bakersfield,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,California State-Fullerton,california state fullerton,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,,california state long beach,California State-Long Beach,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,California State-San Bernardino,california state san bernardino,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Campbell University,campbell university,Campbell University,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,centenary la,Centenary (LA),right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Centenary-Louisiana,centenary louisiana,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Central Arkansas,central arkansas,Central Arkansas,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Central Connecticut State,central connecticut state,Central Connecticut State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Central Florida,central florida,Central Florida,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Central Michigan,central michigan,Central Michigan,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Central Oklahoma,central oklahoma,Central Oklahoma,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,central state oh,Central State (OH),right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Charleston,charleston,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Chicago St.,chicago st,Chicago St.,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Cincinnati,cincinnati,Cincinnati,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Clemson,clemson,Clemson,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Cleveland State,cleveland state,Cleveland State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Colgate,colgate,Colgate,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,College of Charleston,college of charleston,College of Charleston,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Colorado,colorado,Colorado,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Colorado State,colorado state,Colorado State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Concord HS (IN),concord hs in,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Connecticut,connecticut,Connecticut,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Coppin State,coppin state,Coppin State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Cornell,cornell,Cornell,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Creighton,creighton,Creighton,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Davidson,davidson,Davidson,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Dayton,dayton,Dayton,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Delaware,delaware,Delaware,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Delaware State,delaware state,Delaware State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Delta State,delta state,Delta State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Denver,denver,Denver,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,DePaul,depaul,DePaul,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Detroit,detroit,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Detroit Mercy,detroit mercy,Detroit Mercy,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Drexel,drexel,Drexel,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Duke,duke,Duke,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Duquesne,duquesne,Duquesne,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,East Carolina,east carolina,East Carolina,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Eastern Illinois,eastern illinois,Eastern Illinois,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Eastern Michigan,eastern michigan,Eastern Michigan,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Eastern Washington,eastern washington,Eastern Washington,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Fairfield,fairfield,Fairfield,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Fayetteville State,fayetteville state,Fayetteville State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Florida,florida,Florida,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Florida A&M,florida a m,Florida A&M,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Florida Gulf Coast,florida gulf coast,Florida Gulf Coast,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Florida International,florida international,Florida International,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Florida State,florida state,Florida State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Fordham,fordham,Fordham,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Fresno State,fresno state,Fresno State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,George Mason,george mason,George Mason,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,George Washington,george washington,George Washington,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Georgetown,georgetown,Georgetown,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Georgia,georgia,Georgia,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,georgia institute of technology,Georgia Institute of Technology,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Georgia Southern,georgia southern,Georgia Southern,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Georgia State,georgia state,Georgia State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Georgia Tech,georgia tech,Georgia Tech,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Gonzaga,gonzaga,Gonzaga,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Grand Canyon,grand canyon,Grand Canyon,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Hampton,hampton,Hampton,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Hartford,hartford,Hartford,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Harvard,harvard,Harvard,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Hawaii,hawaii,Hawaii,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Hofstra,hofstra,Hofstra,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Holy Cross,holy cross,Holy Cross,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Houston,houston,Houston,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Idaho,idaho,Idaho,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Illinois,illinois,Illinois,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Illinois State,illinois state,Illinois State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Indian Hills C.C.,indian hills c c,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,,indian hills community college,Indian Hills Community College,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Indiana,indiana,Indiana,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Indiana-Purdue Fort Wayne,indiana purdue fort wayne,Indiana-Purdue Fort Wayne,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Indiana-Purdue Indianapolis,indiana purdue indianapolis,Indiana Purdue-Indianapolis,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Indiana-Purdue Indianapolis,indiana purdue indianapolis,Indiana-Purdue Indianapolis,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Indianapolis,indianapolis,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Iona,iona,Iona,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Iowa,iowa,Iowa,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Iowa State,iowa state,Iowa State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Jackson State,jackson state,Jackson State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Jacksonville,jacksonville,Jacksonville,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Jacksonville State,jacksonville state,Jacksonville State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,John A. Logan,john a logan,John A. Logan,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Kansas,kansas,Kansas,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Kansas State,kansas state,Kansas State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Kent State,kent state,Kent State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Kentucky,kentucky,Kentucky,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,La Salle,la salle,La Salle,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Lamar,lamar,Lamar,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,le moyne,Le Moyne,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Lebanon Valley,lebanon valley,Lebanon Valley,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Lehigh,lehigh,Lehigh,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Liberty,liberty,Liberty,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Lincoln Memorial,lincoln memorial,Lincoln Memorial,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Lipscomb,lipscomb,Lipscomb,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Long Beach State,long beach state,Long Beach State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Long Island-Brooklyn,long island brooklyn,Long Island-Brooklyn,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Longwood,longwood,Longwood,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Louisana-Lafayette,louisana lafayette,Louisana-Lafayette,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Louisiana-Lafayette,louisiana lafayette,Louisiana-Lafayette,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Louisiana-Monroe,louisiana monroe,Louisiana-Monroe,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Louisiana State,louisiana state,Louisiana State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Louisiana Tech,louisiana tech,Louisiana Tech,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Louisville,louisville,Louisville,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Loyola-Chicago,loyola chicago,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,,loyola il,Loyola (IL),right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Loyola-Maryland,loyola maryland,Loyola-Maryland,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,lsu,LSU,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Manhattan,manhattan,Manhattan,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Marist,marist,Marist,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Marquette,marquette,Marquette,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Marshall,marshall,Marshall,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Maryland,maryland,Maryland,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Massachusetts,massachusetts,Massachusetts,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,master s,Master's,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,McNeese State,mcneese state,McNeese State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Memphis,memphis,Memphis,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Memphis State,memphis state,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Mercer,mercer,Mercer,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Meridian CC,meridian cc,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,,meridian community college,Meridian Community College,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Miami,miami,Miami,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,miami fl,Miami (FL),right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,,miami fla,Miami (Fla.),right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,,miami oh,Miami (OH),right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Miami (Ohio),miami ohio,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Michigan,michigan,Michigan,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Michigan State,michigan state,Michigan State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,midland,Midland,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Midland (Texas),midland texas,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Midwestern State,midwestern state,Midwestern State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Minnesota,minnesota,Minnesota,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Mississippi,mississippi,Mississippi,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Mississippi State,mississippi state,Mississippi State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Missouri,missouri,Missouri,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Missouri-Kansas City,missouri kansas city,Missouri-Kansas City,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Missouri State,missouri state,Missouri State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Molloy,molloy,Molloy,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Montana,montana,Montana,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Montana State,montana state,Montana State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Montevallo,montevallo,Montevallo,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Morehead State,morehead state,Morehead State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Morehouse,morehouse,Morehouse,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Mt. San Antonio,mt san antonio,Mt. San Antonio,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Murray State,murray state,Murray State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Navy,navy,Navy,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Nebraska,nebraska,Nebraska,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,nebraska lincoln,Nebraska-Lincoln,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Nevada,nevada,Nevada,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,nevada las vegas,Nevada-Las Vegas,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Nevada-Reno,nevada reno,Nevada-Reno,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,New Mexico,new mexico,New Mexico,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,New Mexico State,new mexico state,New Mexico State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,New Orleans,new orleans,New Orleans,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Nicholls State,nicholls state,Nicholls State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,no college,No College,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Norfolk State,norfolk state,Norfolk State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,North Carolina,north carolina,North Carolina,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,North Carolina-Charlotte,north carolina charlotte,North Carolina-Charlotte,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,North Carolina State,north carolina state,North Carolina State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,North Carolina-Wilmington,north carolina wilmington,North Carolina-Wilmington,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,North Dakota,north dakota,North Dakota,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,North Texas,north texas,North Texas,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Northeast Mississippi CC,northeast mississippi cc,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,,northeast mississippi community college,Northeast Mississippi Community College,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Northeastern,northeastern,Northeastern,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Northern Arizona,northern arizona,Northern Arizona,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Northern Illinois,northern illinois,Northern Illinois,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Northern Iowa,northern iowa,Northern Iowa,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Northwest Florida State,northwest florida state,Northwest Florida State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Northwest Missouri St.,northwest missouri st,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,,northwest missouri state,Northwest Missouri State,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Northwestern,northwestern,Northwestern,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,northwestern oklahoma,Northwestern Oklahoma,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Northwestern State,northwestern state,Northwestern State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Nortwestern Oklahoma State,nortwestern oklahoma state,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Notre Dame,notre dame,Notre Dame,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Oakland,oakland,Oakland,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Ohio,ohio,Ohio,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Ohio State,ohio state,Ohio State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,ohio u,Ohio U.,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Oklahoma,oklahoma,Oklahoma,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Oklahoma State,oklahoma state,Oklahoma State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Old Dominion,old dominion,Old Dominion,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Oral Roberts,oral roberts,Oral Roberts,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Oregon,oregon,Oregon,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Oregon State,oregon state,Oregon State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Pacific,pacific,Pacific,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Penn State,penn state,Penn State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Pennsylvania,pennsylvania,Pennsylvania,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Pepperdine,pepperdine,Pepperdine,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Pfeiffer,pfeiffer,Pfeiffer,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Pittsburgh,pittsburgh,Pittsburgh,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Portland,portland,Portland,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Portland State,portland state,Portland State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Princeton,princeton,Princeton,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Providence,providence,Providence,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Purdue,purdue,Purdue,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Radford,radford,Radford,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Rhode Island,rhode island,Rhode Island,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Rice,rice,Rice,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Richmond,richmond,Richmond,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,rider,Rider,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Rider University,rider university,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Robert Morris-Chicago,robert morris chicago,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,,robert morris il,Robert Morris (IL),right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Rutgers,rutgers,Rutgers,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,S.E. Missouri,s e missouri,S.E. Missouri,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,saint joseph s,Saint Joseph's,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,,saint louis,Saint Louis,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Saint Mary's,saint mary s,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,,saint mary s ca,Saint Mary's (CA),right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,,saint rose,Saint Rose,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,,saint vincent,Saint Vincent,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,San Diego State,san diego state,San Diego State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,San Francisco,san francisco,San Francisco,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,San Jose State,san jose state,San Jose State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Santa Clara,santa clara,Santa Clara,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Seton Hall,seton hall,Seton Hall,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Seward County CC,seward county cc,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,,seward county community college,Seward County Community College,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Shaw,shaw,Shaw,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Siena,siena,Siena,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,South Carolina,south carolina,South Carolina,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,South Carolina State,south carolina state,South Carolina State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,South Carolina Upstate,south carolina upstate,South Carolina Upstate,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,South Dakota State,south dakota state,South Dakota State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,South Florida,south florida,South Florida,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Southeastern Illinois,southeastern illinois,Southeastern Illinois,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Southeastern Oklahoma State,southeastern oklahoma state,Southeastern Oklahoma State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Southern,southern,Southern,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Southern California,southern california,Southern California,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Southern Illinois,southern illinois,Southern Illinois,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Southern Methodist,southern methodist,Southern Methodist,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Southern Mississippi,southern mississippi,Southern Mississippi,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Southwest Texas State,southwest texas state,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,St. Bonaventure,st bonaventure,St. Bonaventure,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,St. John's,st john s,St. John's,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,"St. John's, N.Y.",st john s n y,"St. John's, N.Y.",both
+player_bio.COLLEGE VS kaggle_all_seasons.college,St. John's (NY),st john s ny,St. John's (NY),both
+player_bio.COLLEGE VS kaggle_all_seasons.college,St. Joseph's (PA),st joseph s pa,St. Joseph's (PA),both
+player_bio.COLLEGE VS kaggle_all_seasons.college,St. Louis,st louis,St. Louis,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,St. Mary's,st mary s,St. Mary's,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,st mary s ca,St. Mary's (CA),right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,St. Mary's College,st mary s college,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,,st mary s college of california,St.Mary's College of California,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,St. Mary's (TX),st mary s tx,St. Mary's (TX),both
+player_bio.COLLEGE VS kaggle_all_seasons.college,St. Rose,st rose,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,St. Vincent,st vincent,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Stanford,stanford,Stanford,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Stephen F. Austin,stephen f austin,Stephen F. Austin,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Stetson,stetson,Stetson,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Stony Brook,stony brook,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,,stony brook n y,"Stony Brook, N.Y.",right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Syracuse,syracuse,Syracuse,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,TCU,tcu,TCU,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Temple,temple,Temple,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Tennessee,tennessee,Tennessee,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Tennessee-Chattanooga,tennessee chattanooga,Tennessee-Chattanooga,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Tennessee-Martin,tennessee martin,Tennessee-Martin,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Tennessee State,tennessee state,Tennessee State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Tennessee Tech,tennessee tech,Tennessee Tech,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Texas,texas,Texas,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Texas A&M,texas a m,Texas A&M,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Texas-Arlington,texas arlington,Texas-Arlington,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,texas austin,Texas-Austin,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,,texas christian,Texas Christian,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Texas-El Paso,texas el paso,Texas-El Paso,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,texas legends,Texas Legends,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Texas-San Antonio,texas san antonio,Texas-San Antonio,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,texas state,Texas State,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Texas Tech,texas tech,Texas Tech,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,The Master's College,the master s college,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Thomas More,thomas more,Thomas More,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Tokyo Apache,tokyo apache,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Toledo,toledo,Toledo,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Towson,towson,Towson,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,trinity valley community college,Trinity Valley Community College,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Truman State,truman state,Truman State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Tulane,tulane,Tulane,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Tulsa,tulsa,Tulsa,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,UCF,ucf,UCF,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,UCLA,ucla,UCLA,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,unc,UNC,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,UNC-Wilmington,unc wilmington,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,"University of California, Berkeley",university of california berkeley,"University of California, Berkeley",both
+player_bio.COLLEGE VS kaggle_all_seasons.college,University of Colorado Boulder,university of colorado boulder,University of Colorado Boulder,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,University of Dayton,university of dayton,University of Dayton,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,University of Texas at Austin,university of texas at austin,University of Texas at Austin,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,UNLV,unlv,UNLV,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,USC,usc,USC,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Utah,utah,Utah,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Utah State,utah state,Utah State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Utah Valley,utah valley,Utah Valley,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Va Commonwealth,va commonwealth,Va Commonwealth,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Valparaiso,valparaiso,Valparaiso,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Vanderbilt,vanderbilt,Vanderbilt,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Vanier,vanier,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,,venezuela,Venezuela,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Vermont,vermont,Vermont,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Villanova,villanova,Villanova,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Virginia,virginia,Virginia,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Virginia Commonwealth,virginia commonwealth,Virginia Commonwealth,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Virginia Military Institute,virginia military institute,Virginia Military Institute,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Virginia Tech,virginia tech,Virginia Tech,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Virginia Union,virginia union,Virginia Union,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Wake Forest,wake forest,Wake Forest,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Wake Forrest,wake forrest,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Walsh,walsh,Walsh,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Washington,washington,Washington,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Washington State,washington state,Washington State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Weber State,weber state,Weber State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,West Florida,west florida,West Florida,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,West Virginia,west virginia,West Virginia,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,West Virginia Tech,west virginia tech,West Virginia Tech,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Westchester C.C.,westchester c c,,left_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,,westchester cc ny,Westchester CC NY,right_only
+player_bio.COLLEGE VS kaggle_all_seasons.college,Western Carolina,western carolina,Western Carolina,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Western Kentucky,western kentucky,Western Kentucky,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Western Michigan,western michigan,Western Michigan,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Wheeling Jesuit,wheeling jesuit,Wheeling Jesuit,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Wichita State,wichita state,Wichita State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,William & Mary,william mary,William & Mary,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,William Paterson,william paterson,William Paterson,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Wingate,wingate,Wingate,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Winthrop,winthrop,Winthrop,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Wisc.-Green Bay,wisc green bay,Wisc.-Green Bay,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Wisconsin,wisconsin,Wisconsin,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Wisconsin-Green Bay,wisconsin green bay,Wisconsin-Green Bay,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Wisconsin-Milwaukee,wisconsin milwaukee,Wisconsin-Milwaukee,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Wisconsin-Stevens Point,wisconsin stevens point,Wisconsin-Stevens Point,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Wright State,wright state,Wright State,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Wyoming,wyoming,Wyoming,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Xavier,xavier,Xavier,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,Yale,yale,Yale,both
+player_bio.COLLEGE VS kaggle_all_seasons.college,,yonsei kor,Yonsei (KOR),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,,,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,abraham lincoln hs ny,Abraham Lincoln HS (NY),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,adelaide,Adelaide,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,aek athens,AEK Athens,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Alabama,alabama,Alabama,both
+player_bio.COLLEGE VS rosters.SCHOOL,Alabama A&M,alabama a m,Alabama A&M,both
+player_bio.COLLEGE VS rosters.SCHOOL,Alabama-Birmingham,alabama birmingham,Alabama-Birmingham,both
+player_bio.COLLEGE VS rosters.SCHOOL,Alabama Huntsville,alabama huntsville,Alabama Huntsville,both
+player_bio.COLLEGE VS rosters.SCHOOL,Albany State (GA),albany state ga,Albany State (GA),both
+player_bio.COLLEGE VS rosters.SCHOOL,American International,american international,American International,both
+player_bio.COLLEGE VS rosters.SCHOOL,American University,american university,American University,both
+player_bio.COLLEGE VS rosters.SCHOOL,,anadolu efes,Anadolu Efes,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,angelico biella,Angelico Biella,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,aris,Aris,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Arizona,arizona,Arizona,both
+player_bio.COLLEGE VS rosters.SCHOOL,Arizona State,arizona state,Arizona State,both
+player_bio.COLLEGE VS rosters.SCHOOL,Arkansas,arkansas,Arkansas,both
+player_bio.COLLEGE VS rosters.SCHOOL,Arkansas-Little Rock,arkansas little rock,Arkansas-Little Rock,both
+player_bio.COLLEGE VS rosters.SCHOOL,,asvel,ASVEL,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,athlete institute prep,Athlete Institute Prep,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,atletas kaunas,Atletas Kaunas,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Auburn,auburn,Auburn,both
+player_bio.COLLEGE VS rosters.SCHOOL,Auburn-Montgomery,auburn montgomery,Auburn-Montgomery,both
+player_bio.COLLEGE VS rosters.SCHOOL,Augsburg,augsburg,Augsburg,both
+player_bio.COLLEGE VS rosters.SCHOOL,Augusta State,augusta state,Augusta State,both
+player_bio.COLLEGE VS rosters.SCHOOL,Augustana (SD),augustana sd,Augustana (SD),both
+player_bio.COLLEGE VS rosters.SCHOOL,Austin Peay,austin peay,Austin Peay,both
+player_bio.COLLEGE VS rosters.SCHOOL,,australian institute of sport,Australian Institute of Sport,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,bakersfield hs ca,Bakersfield HS (CA),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Ball State,ball state,Ball State,both
+player_bio.COLLEGE VS rosters.SCHOOL,,baloncesto fuenlabrada,Baloncesto Fuenlabrada,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,baskonia,Baskonia,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,bauru,Bauru,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,bayern munich,Bayern Munich,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,bayi,Bayi,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Baylor,baylor,Baylor,both
+player_bio.COLLEGE VS rosters.SCHOOL,,beijing,Beijing,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,beko,Beko,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Belmont,belmont,Belmont,both
+player_bio.COLLEGE VS rosters.SCHOOL,,benetton treviso,Benetton Treviso,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,benston zagreb,Benston Zagreb,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,besiktas,Besiktas,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,bilbao,Bilbao,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,bk skonto,BK Skonto,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Blinn J.C.,blinn j c,Blinn J.C.,both
+player_bio.COLLEGE VS rosters.SCHOOL,Boise State,boise state,Boise State,both
+player_bio.COLLEGE VS rosters.SCHOOL,Boston College,boston college,Boston College,both
+player_bio.COLLEGE VS rosters.SCHOOL,Boston University,boston university,Boston University,both
+player_bio.COLLEGE VS rosters.SCHOOL,Bowling Green,bowling green,Bowling Green,both
+player_bio.COLLEGE VS rosters.SCHOOL,Bradley,bradley,Bradley,both
+player_bio.COLLEGE VS rosters.SCHOOL,,braunschweig,Braunschweig,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,brewster academy nh,Brewster Academy (NH),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Brigham Young,brigham young,Brigham Young,both
+player_bio.COLLEGE VS rosters.SCHOOL,Brigham Young-Hawaii,brigham young hawaii,,left_only
+player_bio.COLLEGE VS rosters.SCHOOL,,brose bamberg,Brose Bamberg,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Bucknell,bucknell,Bucknell,both
+player_bio.COLLEGE VS rosters.SCHOOL,,budapest aeh,Budapest AEH,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,buducnost,Buducnost,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Buffalo,buffalo,Buffalo,both
+player_bio.COLLEGE VS rosters.SCHOOL,Butler,butler,Butler,both
+player_bio.COLLEGE VS rosters.SCHOOL,Butler C.C. (KS),butler c c ks,Butler C.C. (KS),both
+player_bio.COLLEGE VS rosters.SCHOOL,,cajasol sevilla,Cajasol Sevilla,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Cal-Davis,cal davis,,left_only
+player_bio.COLLEGE VS rosters.SCHOOL,Cal Poly-Obispo,cal poly obispo,Cal Poly-Obispo,both
+player_bio.COLLEGE VS rosters.SCHOOL,Cal-Santa Barbara,cal santa barbara,Cal-Santa Barbara,both
+player_bio.COLLEGE VS rosters.SCHOOL,Cal State-Fullerton,cal state fullerton,Cal State-Fullerton,both
+player_bio.COLLEGE VS rosters.SCHOOL,Cal State-Long Beach,cal state long beach,Cal State-Long Beach,both
+player_bio.COLLEGE VS rosters.SCHOOL,California,california,California,both
+player_bio.COLLEGE VS rosters.SCHOOL,California-Irvine,california irvine,California-Irvine,both
+player_bio.COLLEGE VS rosters.SCHOOL,California-Santa Barbara,california santa barbara,California-Santa Barbara,both
+player_bio.COLLEGE VS rosters.SCHOOL,California State-Bakersfield,california state bakersfield,California State-Bakersfield,both
+player_bio.COLLEGE VS rosters.SCHOOL,California State-Fullerton,california state fullerton,California State-Fullerton,both
+player_bio.COLLEGE VS rosters.SCHOOL,California State-San Bernardino,california state san bernardino,California State-San Bernardino,both
+player_bio.COLLEGE VS rosters.SCHOOL,Campbell University,campbell university,Campbell University,both
+player_bio.COLLEGE VS rosters.SCHOOL,,capital city go go,Capital City Go-Go,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,cedevita,Cedevita,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Centenary-Louisiana,centenary louisiana,Centenary-Louisiana,both
+player_bio.COLLEGE VS rosters.SCHOOL,Central Arkansas,central arkansas,Central Arkansas,both
+player_bio.COLLEGE VS rosters.SCHOOL,Central Connecticut State,central connecticut state,Central Connecticut State,both
+player_bio.COLLEGE VS rosters.SCHOOL,Central Florida,central florida,Central Florida,both
+player_bio.COLLEGE VS rosters.SCHOOL,Central Michigan,central michigan,Central Michigan,both
+player_bio.COLLEGE VS rosters.SCHOOL,Central Oklahoma,central oklahoma,Central Oklahoma,both
+player_bio.COLLEGE VS rosters.SCHOOL,Charleston,charleston,Charleston,both
+player_bio.COLLEGE VS rosters.SCHOOL,Chicago St.,chicago st,,left_only
+player_bio.COLLEGE VS rosters.SCHOOL,,cholet,Cholet,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,chorale roanne,Chorale Roanne,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,cibona,Cibona,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Cincinnati,cincinnati,Cincinnati,both
+player_bio.COLLEGE VS rosters.SCHOOL,Clemson,clemson,Clemson,both
+player_bio.COLLEGE VS rosters.SCHOOL,Cleveland State,cleveland state,Cleveland State,both
+player_bio.COLLEGE VS rosters.SCHOOL,,clifton j ozen hs tx,Clifton J. Ozen HS (TX),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,coastal christian academy va,Coastal Christian Academy (VA),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Colgate,colgate,Colgate,both
+player_bio.COLLEGE VS rosters.SCHOOL,College of Charleston,college of charleston,College of Charleston,both
+player_bio.COLLEGE VS rosters.SCHOOL,Colorado,colorado,Colorado,both
+player_bio.COLLEGE VS rosters.SCHOOL,Colorado State,colorado state,Colorado State,both
+player_bio.COLLEGE VS rosters.SCHOOL,Concord HS (IN),concord hs in,Concord HS (IN),both
+player_bio.COLLEGE VS rosters.SCHOOL,Connecticut,connecticut,Connecticut,both
+player_bio.COLLEGE VS rosters.SCHOOL,Coppin State,coppin state,Coppin State,both
+player_bio.COLLEGE VS rosters.SCHOOL,Cornell,cornell,,left_only
+player_bio.COLLEGE VS rosters.SCHOOL,Creighton,creighton,Creighton,both
+player_bio.COLLEGE VS rosters.SCHOOL,,crvena zvezda,Crvena zvezda,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,cska moscow,CSKA Moscow,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,cypress creek hs fl,Cypress Creek HS (FL),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,darussafaka,Darussafaka,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Davidson,davidson,Davidson,both
+player_bio.COLLEGE VS rosters.SCHOOL,Dayton,dayton,Dayton,both
+player_bio.COLLEGE VS rosters.SCHOOL,Delaware,delaware,Delaware,both
+player_bio.COLLEGE VS rosters.SCHOOL,Delaware State,delaware state,Delaware State,both
+player_bio.COLLEGE VS rosters.SCHOOL,Delta State,delta state,Delta State,both
+player_bio.COLLEGE VS rosters.SCHOOL,Denver,denver,,left_only
+player_bio.COLLEGE VS rosters.SCHOOL,DePaul,depaul,DePaul,both
+player_bio.COLLEGE VS rosters.SCHOOL,Detroit,detroit,Detroit,both
+player_bio.COLLEGE VS rosters.SCHOOL,Detroit Mercy,detroit mercy,Detroit Mercy,both
+player_bio.COLLEGE VS rosters.SCHOOL,,djk wurzburg,DJK Wurzburg,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,dkv joventut,DKV Joventut,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,dominguez hs ca,Dominguez HS (CA),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,donetsk,Donetsk,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Drexel,drexel,Drexel,both
+player_bio.COLLEGE VS rosters.SCHOOL,Duke,duke,Duke,both
+player_bio.COLLEGE VS rosters.SCHOOL,Duquesne,duquesne,Duquesne,both
+player_bio.COLLEGE VS rosters.SCHOOL,East Carolina,east carolina,East Carolina,both
+player_bio.COLLEGE VS rosters.SCHOOL,Eastern Illinois,eastern illinois,Eastern Illinois,both
+player_bio.COLLEGE VS rosters.SCHOOL,Eastern Michigan,eastern michigan,Eastern Michigan,both
+player_bio.COLLEGE VS rosters.SCHOOL,Eastern Washington,eastern washington,Eastern Washington,both
+player_bio.COLLEGE VS rosters.SCHOOL,,eau claire hs sc,Eau Claire HS (SC),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,edgewater hs fl,Edgewater HS (FL),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,efes pilsen,Efes Pilsen,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,elan bearnais,Elan Bearnais,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,elan chalon,Elan Chalon,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,elsik hs tx,Elsik HS (TX),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,estudiantes,Estudiantes,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,estudiantes de olavarria,Estudiantes de Olavarria,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Fairfield,fairfield,,left_only
+player_bio.COLLEGE VS rosters.SCHOOL,,farragut academy hs il,Farragut Academy HS (IL),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Fayetteville State,fayetteville state,Fayetteville State,both
+player_bio.COLLEGE VS rosters.SCHOOL,,fc barcelona,FC Barcelona,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,fenerbahce,Fenerbahce,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,filathlitikos,Filathlitikos,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,flamengo,Flamengo,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Florida,florida,Florida,both
+player_bio.COLLEGE VS rosters.SCHOOL,Florida A&M,florida a m,Florida A&M,both
+player_bio.COLLEGE VS rosters.SCHOOL,Florida Gulf Coast,florida gulf coast,Florida Gulf Coast,both
+player_bio.COLLEGE VS rosters.SCHOOL,Florida International,florida international,Florida International,both
+player_bio.COLLEGE VS rosters.SCHOOL,Florida State,florida state,Florida State,both
+player_bio.COLLEGE VS rosters.SCHOOL,,fmp,FMP,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Fordham,fordham,Fordham,both
+player_bio.COLLEGE VS rosters.SCHOOL,,fortitudo bologna,Fortitudo Bologna,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Fresno State,fresno state,Fresno State,both
+player_bio.COLLEGE VS rosters.SCHOOL,,g league ignite,G League Ignite,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,galatasaray,Galatasaray,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,George Mason,george mason,,left_only
+player_bio.COLLEGE VS rosters.SCHOOL,George Washington,george washington,George Washington,both
+player_bio.COLLEGE VS rosters.SCHOOL,Georgetown,georgetown,Georgetown,both
+player_bio.COLLEGE VS rosters.SCHOOL,Georgia,georgia,Georgia,both
+player_bio.COLLEGE VS rosters.SCHOOL,Georgia Southern,georgia southern,Georgia Southern,both
+player_bio.COLLEGE VS rosters.SCHOOL,Georgia State,georgia state,Georgia State,both
+player_bio.COLLEGE VS rosters.SCHOOL,Georgia Tech,georgia tech,Georgia Tech,both
+player_bio.COLLEGE VS rosters.SCHOOL,,germany,Germany,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,glynn academy hs ga,Glynn Academy HS (GA),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Gonzaga,gonzaga,Gonzaga,both
+player_bio.COLLEGE VS rosters.SCHOOL,,gottingen,Gottingen,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,gran canaria,Gran Canaria,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Grand Canyon,grand canyon,Grand Canyon,both
+player_bio.COLLEGE VS rosters.SCHOOL,,guangdong,Guangdong,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Hampton,hampton,Hampton,both
+player_bio.COLLEGE VS rosters.SCHOOL,Hartford,hartford,Hartford,both
+player_bio.COLLEGE VS rosters.SCHOOL,Harvard,harvard,Harvard,both
+player_bio.COLLEGE VS rosters.SCHOOL,Hawaii,hawaii,Hawaii,both
+player_bio.COLLEGE VS rosters.SCHOOL,,hemoform,Hemoform,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Hofstra,hofstra,Hofstra,both
+player_bio.COLLEGE VS rosters.SCHOOL,Holy Cross,holy cross,Holy Cross,both
+player_bio.COLLEGE VS rosters.SCHOOL,Houston,houston,Houston,both
+player_bio.COLLEGE VS rosters.SCHOOL,,hyeres toulon,Hyeres-Toulon,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Idaho,idaho,,left_only
+player_bio.COLLEGE VS rosters.SCHOOL,,illawarra,Illawarra,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Illinois,illinois,Illinois,both
+player_bio.COLLEGE VS rosters.SCHOOL,Illinois State,illinois state,,left_only
+player_bio.COLLEGE VS rosters.SCHOOL,,img academy fl,IMG Academy (FL),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Indian Hills C.C.,indian hills c c,Indian Hills C.C.,both
+player_bio.COLLEGE VS rosters.SCHOOL,Indiana,indiana,Indiana,both
+player_bio.COLLEGE VS rosters.SCHOOL,Indiana-Purdue Fort Wayne,indiana purdue fort wayne,Indiana-Purdue Fort Wayne,both
+player_bio.COLLEGE VS rosters.SCHOOL,Indiana-Purdue Indianapolis,indiana purdue indianapolis,Indiana-Purdue Indianapolis,both
+player_bio.COLLEGE VS rosters.SCHOOL,Indianapolis,indianapolis,Indianapolis,both
+player_bio.COLLEGE VS rosters.SCHOOL,Iona,iona,Iona,both
+player_bio.COLLEGE VS rosters.SCHOOL,Iowa,iowa,Iowa,both
+player_bio.COLLEGE VS rosters.SCHOOL,Iowa State,iowa state,Iowa State,both
+player_bio.COLLEGE VS rosters.SCHOOL,Jackson State,jackson state,Jackson State,both
+player_bio.COLLEGE VS rosters.SCHOOL,Jacksonville,jacksonville,Jacksonville,both
+player_bio.COLLEGE VS rosters.SCHOOL,Jacksonville State,jacksonville state,Jacksonville State,both
+player_bio.COLLEGE VS rosters.SCHOOL,John A. Logan,john a logan,John A. Logan,both
+player_bio.COLLEGE VS rosters.SCHOOL,Kansas,kansas,Kansas,both
+player_bio.COLLEGE VS rosters.SCHOOL,Kansas State,kansas state,Kansas State,both
+player_bio.COLLEGE VS rosters.SCHOOL,Kent State,kent state,Kent State,both
+player_bio.COLLEGE VS rosters.SCHOOL,Kentucky,kentucky,Kentucky,both
+player_bio.COLLEGE VS rosters.SCHOOL,,khimki,Khimki,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,kyiv,Kyiv,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,La Salle,la salle,La Salle,both
+player_bio.COLLEGE VS rosters.SCHOOL,Lamar,lamar,Lamar,both
+player_bio.COLLEGE VS rosters.SCHOOL,,lanier hs ms,Lanier HS (MS),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,le havre,Le Havre,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,le mans,Le Mans,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Lebanon Valley,lebanon valley,,left_only
+player_bio.COLLEGE VS rosters.SCHOOL,Lehigh,lehigh,Lehigh,both
+player_bio.COLLEGE VS rosters.SCHOOL,Liberty,liberty,Liberty,both
+player_bio.COLLEGE VS rosters.SCHOOL,,lietuvos rytas vilnius,Lietuvos rytas Vilnius,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,limoges,Limoges,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Lincoln Memorial,lincoln memorial,,left_only
+player_bio.COLLEGE VS rosters.SCHOOL,Lipscomb,lipscomb,Lipscomb,both
+player_bio.COLLEGE VS rosters.SCHOOL,,lithuania,Lithuania,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Long Beach State,long beach state,Long Beach State,both
+player_bio.COLLEGE VS rosters.SCHOOL,Long Island-Brooklyn,long island brooklyn,Long Island-Brooklyn,both
+player_bio.COLLEGE VS rosters.SCHOOL,Longwood,longwood,Longwood,both
+player_bio.COLLEGE VS rosters.SCHOOL,Louisana-Lafayette,louisana lafayette,Louisana-Lafayette,both
+player_bio.COLLEGE VS rosters.SCHOOL,Louisiana-Lafayette,louisiana lafayette,Louisiana-Lafayette,both
+player_bio.COLLEGE VS rosters.SCHOOL,Louisiana-Monroe,louisiana monroe,Louisiana-Monroe,both
+player_bio.COLLEGE VS rosters.SCHOOL,Louisiana State,louisiana state,Louisiana State,both
+player_bio.COLLEGE VS rosters.SCHOOL,Louisiana Tech,louisiana tech,Louisiana Tech,both
+player_bio.COLLEGE VS rosters.SCHOOL,Louisville,louisville,Louisville,both
+player_bio.COLLEGE VS rosters.SCHOOL,,lower merion hs pa,Lower Merion HS (PA),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Loyola-Chicago,loyola chicago,Loyola-Chicago,both
+player_bio.COLLEGE VS rosters.SCHOOL,Loyola-Maryland,loyola maryland,Loyola-Maryland,both
+player_bio.COLLEGE VS rosters.SCHOOL,,maccabi tel aviv,Maccabi Tel Aviv,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,malaga,Malaga,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Manhattan,manhattan,Manhattan,both
+player_bio.COLLEGE VS rosters.SCHOOL,Marist,marist,Marist,both
+player_bio.COLLEGE VS rosters.SCHOOL,Marquette,marquette,Marquette,both
+player_bio.COLLEGE VS rosters.SCHOOL,Marshall,marshall,Marshall,both
+player_bio.COLLEGE VS rosters.SCHOOL,,martin luther king hs il,Martin Luther King HS (IL),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Maryland,maryland,Maryland,both
+player_bio.COLLEGE VS rosters.SCHOOL,Massachusetts,massachusetts,Massachusetts,both
+player_bio.COLLEGE VS rosters.SCHOOL,McNeese State,mcneese state,McNeese State,both
+player_bio.COLLEGE VS rosters.SCHOOL,,mega basket,Mega Basket,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,melbourne,Melbourne,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Memphis,memphis,Memphis,both
+player_bio.COLLEGE VS rosters.SCHOOL,Memphis State,memphis state,Memphis State,both
+player_bio.COLLEGE VS rosters.SCHOOL,Mercer,mercer,Mercer,both
+player_bio.COLLEGE VS rosters.SCHOOL,Meridian CC,meridian cc,Meridian CC,both
+player_bio.COLLEGE VS rosters.SCHOOL,Miami,miami,Miami,both
+player_bio.COLLEGE VS rosters.SCHOOL,Miami (Ohio),miami ohio,Miami (Ohio),both
+player_bio.COLLEGE VS rosters.SCHOOL,Michigan,michigan,Michigan,both
+player_bio.COLLEGE VS rosters.SCHOOL,Michigan State,michigan state,Michigan State,both
+player_bio.COLLEGE VS rosters.SCHOOL,Midland (Texas),midland texas,Midland (Texas),both
+player_bio.COLLEGE VS rosters.SCHOOL,Midwestern State,midwestern state,,left_only
+player_bio.COLLEGE VS rosters.SCHOOL,Minnesota,minnesota,Minnesota,both
+player_bio.COLLEGE VS rosters.SCHOOL,Mississippi,mississippi,Mississippi,both
+player_bio.COLLEGE VS rosters.SCHOOL,Mississippi State,mississippi state,Mississippi State,both
+player_bio.COLLEGE VS rosters.SCHOOL,,mississippi valley state,Mississippi Valley State,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Missouri,missouri,Missouri,both
+player_bio.COLLEGE VS rosters.SCHOOL,Missouri-Kansas City,missouri kansas city,,left_only
+player_bio.COLLEGE VS rosters.SCHOOL,Missouri State,missouri state,Missouri State,both
+player_bio.COLLEGE VS rosters.SCHOOL,Molloy,molloy,Molloy,both
+player_bio.COLLEGE VS rosters.SCHOOL,Montana,montana,,left_only
+player_bio.COLLEGE VS rosters.SCHOOL,Montana State,montana state,Montana State,both
+player_bio.COLLEGE VS rosters.SCHOOL,Montevallo,montevallo,Montevallo,both
+player_bio.COLLEGE VS rosters.SCHOOL,,moravian prep nc,Moravian Prep (NC),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Morehead State,morehead state,Morehead State,both
+player_bio.COLLEGE VS rosters.SCHOOL,Morehouse,morehouse,Morehouse,both
+player_bio.COLLEGE VS rosters.SCHOOL,,mount zion christian academy nc,Mount Zion Christian Academy (NC),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Mt. San Antonio,mt san antonio,,left_only
+player_bio.COLLEGE VS rosters.SCHOOL,,murcia,Murcia,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Murray State,murray state,Murray State,both
+player_bio.COLLEGE VS rosters.SCHOOL,Navy,navy,Navy,both
+player_bio.COLLEGE VS rosters.SCHOOL,,nba g league ignite,NBA G League Ignite,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,nba global academy,NBA Global Academy,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Nebraska,nebraska,Nebraska,both
+player_bio.COLLEGE VS rosters.SCHOOL,Nevada,nevada,Nevada,both
+player_bio.COLLEGE VS rosters.SCHOOL,Nevada-Reno,nevada reno,Nevada-Reno,both
+player_bio.COLLEGE VS rosters.SCHOOL,New Mexico,new mexico,New Mexico,both
+player_bio.COLLEGE VS rosters.SCHOOL,New Mexico State,new mexico state,New Mexico State,both
+player_bio.COLLEGE VS rosters.SCHOOL,New Orleans,new orleans,New Orleans,both
+player_bio.COLLEGE VS rosters.SCHOOL,,new zealand breakers,New Zealand Breakers,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Nicholls State,nicholls state,Nicholls State,both
+player_bio.COLLEGE VS rosters.SCHOOL,,no college,No College,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Norfolk State,norfolk state,Norfolk State,both
+player_bio.COLLEGE VS rosters.SCHOOL,North Carolina,north carolina,North Carolina,both
+player_bio.COLLEGE VS rosters.SCHOOL,North Carolina-Charlotte,north carolina charlotte,North Carolina-Charlotte,both
+player_bio.COLLEGE VS rosters.SCHOOL,North Carolina State,north carolina state,North Carolina State,both
+player_bio.COLLEGE VS rosters.SCHOOL,North Carolina-Wilmington,north carolina wilmington,,left_only
+player_bio.COLLEGE VS rosters.SCHOOL,North Dakota,north dakota,North Dakota,both
+player_bio.COLLEGE VS rosters.SCHOOL,North Texas,north texas,North Texas,both
+player_bio.COLLEGE VS rosters.SCHOOL,Northeast Mississippi CC,northeast mississippi cc,Northeast Mississippi CC,both
+player_bio.COLLEGE VS rosters.SCHOOL,Northeastern,northeastern,Northeastern,both
+player_bio.COLLEGE VS rosters.SCHOOL,Northern Arizona,northern arizona,Northern Arizona,both
+player_bio.COLLEGE VS rosters.SCHOOL,Northern Illinois,northern illinois,Northern Illinois,both
+player_bio.COLLEGE VS rosters.SCHOOL,Northern Iowa,northern iowa,Northern Iowa,both
+player_bio.COLLEGE VS rosters.SCHOOL,Northwest Florida State,northwest florida state,Northwest Florida State,both
+player_bio.COLLEGE VS rosters.SCHOOL,Northwest Missouri St.,northwest missouri st,Northwest Missouri St.,both
+player_bio.COLLEGE VS rosters.SCHOOL,Northwestern,northwestern,Northwestern,both
+player_bio.COLLEGE VS rosters.SCHOOL,Northwestern State,northwestern state,,left_only
+player_bio.COLLEGE VS rosters.SCHOOL,Nortwestern Oklahoma State,nortwestern oklahoma state,,left_only
+player_bio.COLLEGE VS rosters.SCHOOL,Notre Dame,notre dame,Notre Dame,both
+player_bio.COLLEGE VS rosters.SCHOOL,,oak hill academy va,Oak Hill Academy (VA),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Oakland,oakland,Oakland,both
+player_bio.COLLEGE VS rosters.SCHOOL,Ohio,ohio,Ohio,both
+player_bio.COLLEGE VS rosters.SCHOOL,Ohio State,ohio state,Ohio State,both
+player_bio.COLLEGE VS rosters.SCHOOL,Oklahoma,oklahoma,Oklahoma,both
+player_bio.COLLEGE VS rosters.SCHOOL,Oklahoma State,oklahoma state,Oklahoma State,both
+player_bio.COLLEGE VS rosters.SCHOOL,Old Dominion,old dominion,Old Dominion,both
+player_bio.COLLEGE VS rosters.SCHOOL,,olimpia milano,Olimpia Milano,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,olympiacos,Olympiacos,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Oral Roberts,oral roberts,Oral Roberts,both
+player_bio.COLLEGE VS rosters.SCHOOL,Oregon,oregon,Oregon,both
+player_bio.COLLEGE VS rosters.SCHOOL,Oregon State,oregon state,Oregon State,both
+player_bio.COLLEGE VS rosters.SCHOOL,,overtime elite,Overtime Elite,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Pacific,pacific,Pacific,both
+player_bio.COLLEGE VS rosters.SCHOOL,,panathinaikos,Panathinaikos,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,paok,PAOK,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,paris basket racing,Paris Basket Racing,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,partizan,Partizan,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,pau orthez,Pau Orthez,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,penarol,Penarol,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Penn State,penn state,Penn State,both
+player_bio.COLLEGE VS rosters.SCHOOL,Pennsylvania,pennsylvania,Pennsylvania,both
+player_bio.COLLEGE VS rosters.SCHOOL,,peoria central hs il,Peoria Central HS (IL),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Pepperdine,pepperdine,Pepperdine,both
+player_bio.COLLEGE VS rosters.SCHOOL,,peristeri,Peristeri,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Pfeiffer,pfeiffer,Pfeiffer,both
+player_bio.COLLEGE VS rosters.SCHOOL,,picayune hs ms,Picayune HS (MS),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,pinheiros,Pinheiros,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Pittsburgh,pittsburgh,Pittsburgh,both
+player_bio.COLLEGE VS rosters.SCHOOL,,poitiers basket 86,Poitiers Basket 86,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Portland,portland,Portland,both
+player_bio.COLLEGE VS rosters.SCHOOL,Portland State,portland state,Portland State,both
+player_bio.COLLEGE VS rosters.SCHOOL,Princeton,princeton,Princeton,both
+player_bio.COLLEGE VS rosters.SCHOOL,,princeton hs oh,Princeton HS (OH),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Providence,providence,Providence,both
+player_bio.COLLEGE VS rosters.SCHOOL,Purdue,purdue,Purdue,both
+player_bio.COLLEGE VS rosters.SCHOOL,Radford,radford,Radford,both
+player_bio.COLLEGE VS rosters.SCHOOL,,ratiopharm ulm,Ratiopharm Ulm,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,real madrid,Real Madrid,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,rheinenergie cologne,RheinEnergie Cologne,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Rhode Island,rhode island,Rhode Island,both
+player_bio.COLLEGE VS rosters.SCHOOL,,ribeirao preto,Ribeirao Preto,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Rice,rice,Rice,both
+player_bio.COLLEGE VS rosters.SCHOOL,Richmond,richmond,Richmond,both
+player_bio.COLLEGE VS rosters.SCHOOL,,ricoh manresa,Ricoh Manresa,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,rider,Rider,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Rider University,rider university,Rider University,both
+player_bio.COLLEGE VS rosters.SCHOOL,Robert Morris-Chicago,robert morris chicago,Robert Morris-Chicago,both
+player_bio.COLLEGE VS rosters.SCHOOL,,rouen france,"Rouen, France",right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Rutgers,rutgers,Rutgers,both
+player_bio.COLLEGE VS rosters.SCHOOL,S.E. Missouri,s e missouri,S.E. Missouri,both
+player_bio.COLLEGE VS rosters.SCHOOL,,saba battery,Saba Battery,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Saint Mary's,saint mary s,Saint Mary's,both
+player_bio.COLLEGE VS rosters.SCHOOL,San Diego State,san diego state,San Diego State,both
+player_bio.COLLEGE VS rosters.SCHOOL,San Francisco,san francisco,,left_only
+player_bio.COLLEGE VS rosters.SCHOOL,San Jose State,san jose state,San Jose State,both
+player_bio.COLLEGE VS rosters.SCHOOL,,san pablo burgos,San Pablo Burgos,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Santa Clara,santa clara,Santa Clara,both
+player_bio.COLLEGE VS rosters.SCHOOL,,sao carlos,Sao Carlos,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,seattle preparatory hs wa,Seattle Preparatory HS (WA),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Seton Hall,seton hall,Seton Hall,both
+player_bio.COLLEGE VS rosters.SCHOOL,Seward County CC,seward county cc,Seward County CC,both
+player_bio.COLLEGE VS rosters.SCHOOL,,shanghai,Shanghai,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Shaw,shaw,Shaw,both
+player_bio.COLLEGE VS rosters.SCHOOL,Siena,siena,Siena,both
+player_bio.COLLEGE VS rosters.SCHOOL,,skyline hs tx,Skyline HS (TX),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,skyliners frankfurt,Skyliners Frankfurt,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,South Carolina,south carolina,South Carolina,both
+player_bio.COLLEGE VS rosters.SCHOOL,South Carolina State,south carolina state,South Carolina State,both
+player_bio.COLLEGE VS rosters.SCHOOL,South Carolina Upstate,south carolina upstate,South Carolina Upstate,both
+player_bio.COLLEGE VS rosters.SCHOOL,South Dakota State,south dakota state,South Dakota State,both
+player_bio.COLLEGE VS rosters.SCHOOL,,south east melbourne,South East Melbourne,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,South Florida,south florida,South Florida,both
+player_bio.COLLEGE VS rosters.SCHOOL,,south gwinnett hs ga,South Gwinnett HS (GA),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,south kent hs ct,South Kent HS (CT),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Southeastern Illinois,southeastern illinois,Southeastern Illinois,both
+player_bio.COLLEGE VS rosters.SCHOOL,Southeastern Oklahoma State,southeastern oklahoma state,Southeastern Oklahoma State,both
+player_bio.COLLEGE VS rosters.SCHOOL,Southern,southern,Southern,both
+player_bio.COLLEGE VS rosters.SCHOOL,Southern California,southern california,Southern California,both
+player_bio.COLLEGE VS rosters.SCHOOL,Southern Illinois,southern illinois,Southern Illinois,both
+player_bio.COLLEGE VS rosters.SCHOOL,Southern Methodist,southern methodist,Southern Methodist,both
+player_bio.COLLEGE VS rosters.SCHOOL,Southern Mississippi,southern mississippi,Southern Mississippi,both
+player_bio.COLLEGE VS rosters.SCHOOL,Southwest Texas State,southwest texas state,Southwest Texas State,both
+player_bio.COLLEGE VS rosters.SCHOOL,,spirou charleroi,Spirou Charleroi,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,split,Split,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,St. Bonaventure,st bonaventure,St. Bonaventure,both
+player_bio.COLLEGE VS rosters.SCHOOL,St. John's,st john s,St. John's,both
+player_bio.COLLEGE VS rosters.SCHOOL,"St. John's, N.Y.",st john s n y,"St. John's, N.Y.",both
+player_bio.COLLEGE VS rosters.SCHOOL,St. John's (NY),st john s ny,St. John's (NY),both
+player_bio.COLLEGE VS rosters.SCHOOL,St. Joseph's (PA),st joseph s pa,St. Joseph's (PA),both
+player_bio.COLLEGE VS rosters.SCHOOL,St. Louis,st louis,St. Louis,both
+player_bio.COLLEGE VS rosters.SCHOOL,St. Mary's,st mary s,St. Mary's,both
+player_bio.COLLEGE VS rosters.SCHOOL,,st mary s ca,St. Mary's (CA),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,St. Mary's College,st mary s college,St. Mary's College,both
+player_bio.COLLEGE VS rosters.SCHOOL,St. Mary's (TX),st mary s tx,St. Mary's (TX),both
+player_bio.COLLEGE VS rosters.SCHOOL,,st patrick hs nj,St. Patrick HS (NJ),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,St. Rose,st rose,,left_only
+player_bio.COLLEGE VS rosters.SCHOOL,St. Vincent,st vincent,St. Vincent,both
+player_bio.COLLEGE VS rosters.SCHOOL,,st vincent st mary hs oh,St. Vincent-St. Mary HS (OH),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Stanford,stanford,Stanford,both
+player_bio.COLLEGE VS rosters.SCHOOL,,starkville hs ms,Starkville HS (MS),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,statyba,Statyba,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Stephen F. Austin,stephen f austin,Stephen F. Austin,both
+player_bio.COLLEGE VS rosters.SCHOOL,Stetson,stetson,Stetson,both
+player_bio.COLLEGE VS rosters.SCHOOL,Stony Brook,stony brook,,left_only
+player_bio.COLLEGE VS rosters.SCHOOL,,strasbourg ig,Strasbourg IG,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,sw atlanta christian academy ga,SW Atlanta Christian Academy (GA),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,sydney,Sydney,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,sydney kings,Sydney Kings,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Syracuse,syracuse,Syracuse,both
+player_bio.COLLEGE VS rosters.SCHOOL,,tau ceramica,Tau Ceramica,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,TCU,tcu,TCU,both
+player_bio.COLLEGE VS rosters.SCHOOL,Temple,temple,Temple,both
+player_bio.COLLEGE VS rosters.SCHOOL,Tennessee,tennessee,Tennessee,both
+player_bio.COLLEGE VS rosters.SCHOOL,Tennessee-Chattanooga,tennessee chattanooga,Tennessee-Chattanooga,both
+player_bio.COLLEGE VS rosters.SCHOOL,Tennessee-Martin,tennessee martin,Tennessee-Martin,both
+player_bio.COLLEGE VS rosters.SCHOOL,Tennessee State,tennessee state,Tennessee State,both
+player_bio.COLLEGE VS rosters.SCHOOL,Tennessee Tech,tennessee tech,Tennessee Tech,both
+player_bio.COLLEGE VS rosters.SCHOOL,Texas,texas,Texas,both
+player_bio.COLLEGE VS rosters.SCHOOL,Texas A&M,texas a m,Texas A&M,both
+player_bio.COLLEGE VS rosters.SCHOOL,Texas-Arlington,texas arlington,Texas-Arlington,both
+player_bio.COLLEGE VS rosters.SCHOOL,,texas austin,Texas-Austin,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,texas christian,Texas Christian,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Texas-El Paso,texas el paso,Texas-El Paso,both
+player_bio.COLLEGE VS rosters.SCHOOL,Texas-San Antonio,texas san antonio,Texas-San Antonio,both
+player_bio.COLLEGE VS rosters.SCHOOL,Texas Tech,texas tech,Texas Tech,both
+player_bio.COLLEGE VS rosters.SCHOOL,The Master's College,the master s college,,left_only
+player_bio.COLLEGE VS rosters.SCHOOL,Thomas More,thomas more,,left_only
+player_bio.COLLEGE VS rosters.SCHOOL,,thornwood hs il,Thornwood HS (IL),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Tokyo Apache,tokyo apache,Tokyo Apache,both
+player_bio.COLLEGE VS rosters.SCHOOL,Toledo,toledo,Toledo,both
+player_bio.COLLEGE VS rosters.SCHOOL,Towson,towson,Towson,both
+player_bio.COLLEGE VS rosters.SCHOOL,,trotamundos,Trotamundos,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,trouville,Trouville,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Truman State,truman state,Truman State,both
+player_bio.COLLEGE VS rosters.SCHOOL,Tulane,tulane,Tulane,both
+player_bio.COLLEGE VS rosters.SCHOOL,Tulsa,tulsa,Tulsa,both
+player_bio.COLLEGE VS rosters.SCHOOL,UCF,ucf,UCF,both
+player_bio.COLLEGE VS rosters.SCHOOL,UCLA,ucla,UCLA,both
+player_bio.COLLEGE VS rosters.SCHOOL,,udine,Udine,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,ukraine,Ukraine,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,ulkerspor,Ulkerspor,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,UNC-Wilmington,unc wilmington,UNC-Wilmington,both
+player_bio.COLLEGE VS rosters.SCHOOL,,union olimpija,Union Olimpija,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,"University of California, Berkeley",university of california berkeley,,left_only
+player_bio.COLLEGE VS rosters.SCHOOL,University of Colorado Boulder,university of colorado boulder,University of Colorado Boulder,both
+player_bio.COLLEGE VS rosters.SCHOOL,University of Dayton,university of dayton,University of Dayton,both
+player_bio.COLLEGE VS rosters.SCHOOL,University of Texas at Austin,university of texas at austin,University of Texas at Austin,both
+player_bio.COLLEGE VS rosters.SCHOOL,UNLV,unlv,UNLV,both
+player_bio.COLLEGE VS rosters.SCHOOL,USC,usc,USC,both
+player_bio.COLLEGE VS rosters.SCHOOL,Utah,utah,Utah,both
+player_bio.COLLEGE VS rosters.SCHOOL,Utah State,utah state,Utah State,both
+player_bio.COLLEGE VS rosters.SCHOOL,Utah Valley,utah valley,Utah Valley,both
+player_bio.COLLEGE VS rosters.SCHOOL,Va Commonwealth,va commonwealth,Va Commonwealth,both
+player_bio.COLLEGE VS rosters.SCHOOL,,valencia,Valencia,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Valparaiso,valparaiso,Valparaiso,both
+player_bio.COLLEGE VS rosters.SCHOOL,Vanderbilt,vanderbilt,Vanderbilt,both
+player_bio.COLLEGE VS rosters.SCHOOL,Vanier,vanier,,left_only
+player_bio.COLLEGE VS rosters.SCHOOL,,vasco de gama,Vasco de Gama,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Vermont,vermont,Vermont,both
+player_bio.COLLEGE VS rosters.SCHOOL,,verviers pepinster,Verviers-Pepinster,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,villa clara,Villa Clara,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Villanova,villanova,Villanova,both
+player_bio.COLLEGE VS rosters.SCHOOL,Virginia,virginia,Virginia,both
+player_bio.COLLEGE VS rosters.SCHOOL,Virginia Commonwealth,virginia commonwealth,Virginia Commonwealth,both
+player_bio.COLLEGE VS rosters.SCHOOL,Virginia Military Institute,virginia military institute,Virginia Military Institute,both
+player_bio.COLLEGE VS rosters.SCHOOL,Virginia Tech,virginia tech,Virginia Tech,both
+player_bio.COLLEGE VS rosters.SCHOOL,Virginia Union,virginia union,Virginia Union,both
+player_bio.COLLEGE VS rosters.SCHOOL,,virtus bologna,Virtus Bologna,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,virtus roma,Virtus Roma,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Wake Forest,wake forest,Wake Forest,both
+player_bio.COLLEGE VS rosters.SCHOOL,Wake Forrest,wake forrest,,left_only
+player_bio.COLLEGE VS rosters.SCHOOL,Walsh,walsh,,left_only
+player_bio.COLLEGE VS rosters.SCHOOL,Washington,washington,Washington,both
+player_bio.COLLEGE VS rosters.SCHOOL,Washington State,washington state,Washington State,both
+player_bio.COLLEGE VS rosters.SCHOOL,,washington union hs ca,Washington Union HS (CA),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Weber State,weber state,Weber State,both
+player_bio.COLLEGE VS rosters.SCHOOL,West Florida,west florida,West Florida,both
+player_bio.COLLEGE VS rosters.SCHOOL,West Virginia,west virginia,West Virginia,both
+player_bio.COLLEGE VS rosters.SCHOOL,West Virginia Tech,west virginia tech,West Virginia Tech,both
+player_bio.COLLEGE VS rosters.SCHOOL,,westbury christian hs tx,Westbury Christian HS (TX),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Westchester C.C.,westchester c c,Westchester C.C.,both
+player_bio.COLLEGE VS rosters.SCHOOL,,westchester hs ca,Westchester HS (CA),right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Western Carolina,western carolina,Western Carolina,both
+player_bio.COLLEGE VS rosters.SCHOOL,Western Kentucky,western kentucky,Western Kentucky,both
+player_bio.COLLEGE VS rosters.SCHOOL,Western Michigan,western michigan,Western Michigan,both
+player_bio.COLLEGE VS rosters.SCHOOL,Wheeling Jesuit,wheeling jesuit,Wheeling Jesuit,both
+player_bio.COLLEGE VS rosters.SCHOOL,Wichita State,wichita state,Wichita State,both
+player_bio.COLLEGE VS rosters.SCHOOL,William & Mary,william mary,William & Mary,both
+player_bio.COLLEGE VS rosters.SCHOOL,William Paterson,william paterson,William Paterson,both
+player_bio.COLLEGE VS rosters.SCHOOL,Wingate,wingate,Wingate,both
+player_bio.COLLEGE VS rosters.SCHOOL,,winnipeg sea bears,Winnipeg Sea Bears,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Winthrop,winthrop,Winthrop,both
+player_bio.COLLEGE VS rosters.SCHOOL,Wisc.-Green Bay,wisc green bay,Wisc.-Green Bay,both
+player_bio.COLLEGE VS rosters.SCHOOL,Wisconsin,wisconsin,Wisconsin,both
+player_bio.COLLEGE VS rosters.SCHOOL,Wisconsin-Green Bay,wisconsin green bay,,left_only
+player_bio.COLLEGE VS rosters.SCHOOL,Wisconsin-Milwaukee,wisconsin milwaukee,Wisconsin-Milwaukee,both
+player_bio.COLLEGE VS rosters.SCHOOL,Wisconsin-Stevens Point,wisconsin stevens point,Wisconsin-Stevens Point,both
+player_bio.COLLEGE VS rosters.SCHOOL,Wright State,wright state,Wright State,both
+player_bio.COLLEGE VS rosters.SCHOOL,,wtc cornella,WTC Cornella,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Wyoming,wyoming,Wyoming,both
+player_bio.COLLEGE VS rosters.SCHOOL,Xavier,xavier,Xavier,both
+player_bio.COLLEGE VS rosters.SCHOOL,,xinjiang,Xinjiang,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,Yale,yale,Yale,both
+player_bio.COLLEGE VS rosters.SCHOOL,,yonsei,Yonsei,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,zalgiris,Zalgiris,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,zaragoza,Zaragoza,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,zenit saint petersburg,Zenit Saint Petersburg,right_only
+player_bio.COLLEGE VS rosters.SCHOOL,,znicz pruszkow,Znicz Pruszkow,right_only
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,ATL,atl,ATL,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,BKN,bkn,BKN,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,BOS,bos,BOS,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,CHA,cha,CHA,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,CHH,chh,CHH,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,CHI,chi,CHI,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,CLE,cle,CLE,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,DAL,dal,DAL,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,DEN,den,DEN,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,DET,det,DET,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,GSW,gsw,GSW,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,HOU,hou,HOU,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,IND,ind,IND,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,LAC,lac,LAC,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,LAL,lal,LAL,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,MEM,mem,MEM,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,MIA,mia,MIA,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,MIL,mil,MIL,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,MIN,min,MIN,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,NJN,njn,NJN,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,NOH,noh,NOH,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,NOK,nok,NOK,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,NOP,nop,NOP,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,NYK,nyk,NYK,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,OKC,okc,OKC,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,ORL,orl,ORL,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,PHI,phi,PHI,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,PHX,phx,PHX,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,POR,por,POR,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,SAC,sac,SAC,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,SAS,sas,SAS,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,SEA,sea,SEA,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,TOR,tor,TOR,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,UTA,uta,UTA,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,VAN,van,VAN,both
+player_bio.TEAM_ABBREVIATION VS kaggle_all_seasons.team_abbreviation,WAS,was,WAS,both

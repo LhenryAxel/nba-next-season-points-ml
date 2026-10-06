@@ -1,0 +1,8 @@
+source,cle,lignes,colonnes_cle_presentes,types,valeurs_manquantes_cle,lignes_cle_dupliquees,groupes_dupliques,cles_uniques
+player_bio,PLAYER_ID + SEASON,12846,True,PLAYER_ID:int64 | SEASON:string,0,0,0,12846
+player_stats_base,PLAYER_ID + SEASON,12846,True,PLAYER_ID:int64 | SEASON:string,0,0,0,12846
+player_stats_advanced,PLAYER_ID + SEASON,12846,True,PLAYER_ID:int64 | SEASON:string,0,0,0,12846
+team_stats_base,TEAM_ID + SEASON,802,True,TEAM_ID:int64 | SEASON:string,0,0,0,802
+team_stats_advanced,TEAM_ID + SEASON,802,True,TEAM_ID:int64 | SEASON:string,0,0,0,802
+rosters,PLAYER_ID + TeamID + SEASON,11672,True,PLAYER_ID:int64 | TeamID:int64 | SEASON:string,0,0,0,11672
+kaggle_all_seasons,player_name + season,12844,True,player_name:object | season:object,0,8,4,12840

@@ -1,0 +1,16 @@
+source,colonne,manquants,pourcentage,strategie,flag,justification
+rosters,HOW_ACQUIRED,11280,96.6415,Suppression de colonne,,"Colonne manquante sur environ 97 % des lignes, absence fortement systématique et faible intérêt pour la prédiction des performances."
+rosters,SUPPLEMENTAL_STATUS,5843,50.06,Suppression de colonne,,Plus de 50 % de valeurs manquantes et absence liée à une évolution du schéma de la source roster.
+kaggle_all_seasons,college,1859,14.4737,Flag + conservation,COLLEGE_IS_MISSING,Environ 14 % de valeurs manquantes. Les lignes restent utiles pour l'analyse et le ML.
+player_bio,COLLEGE,1821,14.1756,Flag + conservation,COLLEGE_IS_MISSING,Environ 14 % de valeurs manquantes. L'absence n'est pas suffisamment aléatoire pour supprimer les joueurs concernés.
+player_bio,DRAFT_NUMBER,104,0.8096,Flag + conservation,DRAFT_INFO_IS_MISSING,L'information de draft est conservée sans imputation.
+player_bio,DRAFT_ROUND,95,0.7395,Flag + conservation,DRAFT_INFO_IS_MISSING,L'information de draft est conservée sans imputation.
+player_bio,PLAYER_HEIGHT,71,0.5527,Flag + conservation,PLAYER_HEIGHT_IS_MISSING,La ligne joueur reste exploitable malgré une taille absente.
+player_bio,PLAYER_HEIGHT_INCHES,71,0.5527,Flag + conservation,PLAYER_HEIGHT_IS_MISSING,La ligne joueur reste exploitable malgré une taille absente.
+player_bio,PLAYER_WEIGHT,71,0.5527,Flag + conservation,PLAYER_WEIGHT_IS_MISSING,Le poids n'est pas imputé avant la séparation train/test.
+player_bio,PLAYER_HEIGHT_CM,71,0.5527,Flag + conservation,PLAYER_HEIGHT_IS_MISSING,La représentation standardisée conserve la valeur manquante.
+player_bio,PLAYER_WEIGHT_KG,71,0.5527,Flag + conservation,PLAYER_WEIGHT_IS_MISSING,La représentation standardisée conserve la valeur manquante.
+rosters,NUM,30,0.257,Flag + conservation,NUM_IS_MISSING,Un numéro de maillot manquant ne justifie pas la suppression du joueur.
+rosters,SCHOOL,6,0.0514,Flag + conservation,SCHOOL_IS_MISSING,L'établissement est une information secondaire et son absence ne rend pas la ligne invalide.
+rosters,NICKNAME,4,0.0343,Flag + conservation,NICKNAME_IS_MISSING,Le surnom n'est pas nécessaire pour conserver l'observation joueur.
+rosters,PLAYER_SLUG,4,0.0343,Flag + conservation,PLAYER_SLUG_IS_MISSING,Champ technique secondaire. La ligne joueur est conservée.

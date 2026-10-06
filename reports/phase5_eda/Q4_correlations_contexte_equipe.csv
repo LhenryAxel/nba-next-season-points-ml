@@ -1,0 +1,6 @@
+feature,pearson_cible,spearman_cible,pearson_variation,spearman_variation
+TEAM_W_PCT,0.049,0.032,0.125,0.123
+TEAM_OFF_RATING,0.094,0.074,0.084,0.08
+TEAM_DEF_RATING,0.043,0.043,-0.051,-0.048
+TEAM_NET_RATING,0.048,0.031,0.121,0.121
+TEAM_PACE,0.077,0.067,0.006,0.009

@@ -1,0 +1,3 @@
+analyse,test,statistique,p_value,significatif_5pct
+PTS en N+1 selon le poste,Kruskal-Wallis,229.05279257086667,1.827334530340249e-50,True
+Evolution N vers N+1 selon le poste,Kruskal-Wallis,4.693002126094392,0.09570343736418663,False

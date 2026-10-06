@@ -1,0 +1,7 @@
+source,colonne,unite_source,unite_cible,action_phase3
+kaggle_all_seasons,player_height,cm,cm,Aucune conversion
+kaggle_all_seasons,player_weight,kg,kg,Aucune conversion
+player_bio,PLAYER_HEIGHT_INCHES,pouces,cm,Multiplier par 2.54
+player_bio,PLAYER_WEIGHT,lb,kg,Multiplier par 0.453592
+rosters,HEIGHT,pieds-pouces,cm,Parser le format puis convertir en cm
+rosters,WEIGHT,lb,kg,Multiplier par 0.453592

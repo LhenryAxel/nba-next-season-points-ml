@@ -1,0 +1,8 @@
+source,fichier,lignes,colonnes,fichier_existe,dimensions_relecture_ok,colonnes_relecture_ok
+player_bio,c:\Users\USER\OneDrive\LiveCampus\master\cours\machine learning\final\Model\data\clean\player_bio_clean.parquet,12846,31,True,True,True
+player_stats_base,c:\Users\USER\OneDrive\LiveCampus\master\cours\machine learning\final\Model\data\clean\player_stats_base_clean.parquet,12846,69,True,True,True
+player_stats_advanced,c:\Users\USER\OneDrive\LiveCampus\master\cours\machine learning\final\Model\data\clean\player_stats_advanced_clean.parquet,12846,81,True,True,True
+team_stats_base,c:\Users\USER\OneDrive\LiveCampus\master\cours\machine learning\final\Model\data\clean\team_stats_base_clean.parquet,802,56,True,True,True
+team_stats_advanced,c:\Users\USER\OneDrive\LiveCampus\master\cours\machine learning\final\Model\data\clean\team_stats_advanced_clean.parquet,802,48,True,True,True
+rosters,c:\Users\USER\OneDrive\LiveCampus\master\cours\machine learning\final\Model\data\clean\rosters_clean.parquet,11672,23,True,True,True
+kaggle_all_seasons,c:\Users\USER\OneDrive\LiveCampus\master\cours\machine learning\final\Model\data\clean\kaggle_all_seasons_clean.parquet,12844,24,True,True,True

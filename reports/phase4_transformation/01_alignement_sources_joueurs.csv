@@ -1,0 +1,4 @@
+reference,source_comparee,cles_reference,cles_source,absentes_de_source,absentes_reference,alignement_parfait
+player_stats_base,player_bio,12846,12846,0,0,True
+player_stats_base,player_stats_base,12846,12846,0,0,True
+player_stats_base,player_stats_advanced,12846,12846,0,0,True

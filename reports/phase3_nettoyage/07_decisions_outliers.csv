@@ -1,0 +1,5 @@
+type,decision,lignes_affectees,justification
+Valeurs impossibles selon les règles métier,Aucune suppression ou correction,0,Aucune valeur manifestement impossible n'a été détectée par les contrôles métier.
+Valeurs extrêmes détectées par IQR,Conservation sans modification,0,"La méthode IQR identifie des observations extrêmes mais ne permet pas de conclure qu'elles sont erronées. Dans le contexte NBA, ces valeurs peuvent représenter des performances légitimes ou de petits échantillons."
+Winsorisation,Non appliquée,0,"Transformation statistique interdite pendant la Phase 3. Si elle devient nécessaire au modèle, elle devra être apprise uniquement sur le train dans la pipeline ML."
+Transformation log ou racine,Non appliquée,0,Aucune transformation statistique globale n'est appliquée avant la séparation train/test.

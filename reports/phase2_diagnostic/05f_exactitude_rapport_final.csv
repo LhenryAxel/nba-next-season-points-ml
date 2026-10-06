@@ -1,0 +1,262 @@
+source,colonne,minimum,maximum,moyenne,mediane,outliers_iqr,pourcentage_outliers,anomalies_metier,plausibilite
+player_bio,AGE,18.0,44.0,27.0450723960766,26.0,47,0.3659,0,À examiner
+player_bio,PLAYER_HEIGHT_INCHES,63.0,91.0,78.9626614481409,79.0,18,0.1409,0,À examiner
+player_bio,GP,1.0,85.0,51.1483730344076,57.0,0,0.0,0,OK
+player_bio,PTS,0.0,36.1,8.21152109606103,6.7,298,2.3198,0,À examiner
+player_bio,REB,0.0,16.3,3.5579947065234316,3.0,524,4.0791,0,À examiner
+player_bio,AST,0.0,11.7,1.824466760080959,1.2,841,6.5468,0,À examiner
+player_bio,NET_RATING,-250.0,250.0,-2.1405106647983807,-1.2,644,5.0132,0,À examiner
+player_bio,OREB_PCT,0.0,0.5,0.04766518760703721,0.036,57,0.4437,0,À examiner
+player_bio,DREB_PCT,0.0,1.0,0.1253328662618714,0.118,146,1.1365,0,À examiner
+player_bio,USG_PCT,0.0,0.667,0.18129970418807412,0.177,219,1.7048,0,À examiner
+player_bio,TS_PCT,0.0,1.5,0.5131291452592246,0.525,828,6.4456,0,À examiner
+player_bio,AST_PCT,0.0,1.0,0.13160291141211272,0.103,405,3.1527,0,À examiner
+player_stats_base,AGE,18.0,44.0,27.0450723960766,26.0,47,0.3659,0,À examiner
+player_stats_base,GP,1.0,85.0,51.1483730344076,57.0,0,0.0,0,OK
+player_stats_base,W,0.0,73.0,25.57200685038144,25.0,0,0.0,0,OK
+player_stats_base,L,0.0,71.0,25.576366184026156,25.0,4,0.0311,0,À examiner
+player_stats_base,W_PCT,0.0,1.0,0.48703362914525916,0.5,149,1.1599,0,À examiner
+player_stats_base,MIN,0.1,43.7,20.218285847734702,19.6,0,0.0,0,OK
+player_stats_base,FGM,0.0,12.2,3.062789973532617,2.5,263,2.0473,0,À examiner
+player_stats_base,FGA,0.0,27.8,6.833092013078001,5.7,210,1.6348,0,À examiner
+player_stats_base,FG_PCT,0.0,1.0,0.43568737350147907,0.438,963,7.4965,0,À examiner
+player_stats_base,FG3M,0.0,5.3,0.6170014012143858,0.4,238,1.8527,0,À examiner
+player_stats_base,FG3A,0.0,13.2,1.7661684571072704,1.2,170,1.3234,0,À examiner
+player_stats_base,FG3_PCT,0.0,1.0,0.2466254086875292,0.308,87,0.6773,0,À examiner
+player_stats_base,FTM,0.0,10.2,1.471524209870777,1.0,700,5.4492,0,À examiner
+player_stats_base,FTA,0.0,13.1,1.9620815818153512,1.4,727,5.6593,0,À examiner
+player_stats_base,FT_PCT,0.0,1.0,0.6997202241943017,0.75,802,6.2432,0,À examiner
+player_stats_base,OREB,0.0,6.8,0.9470730188385489,0.7,637,4.9587,0,À examiner
+player_stats_base,DREB,0.0,11.5,2.6124318854118016,2.2,443,3.4485,0,À examiner
+player_stats_base,REB,0.0,16.3,3.5579947065234316,3.0,524,4.0791,0,À examiner
+player_stats_base,AST,0.0,11.7,1.824466760080959,1.2,841,6.5468,0,À examiner
+player_stats_base,TOV,0.0,5.7,1.168137941771758,1.0,323,2.5144,0,À examiner
+player_stats_base,STL,0.0,3.0,0.6411957029425501,0.6,199,1.5491,0,À examiner
+player_stats_base,BLK,0.0,3.9,0.4088432196792776,0.3,923,7.1851,0,À examiner
+player_stats_base,BLKA,0.0,2.2,0.4152576677565,0.3,241,1.8761,0,À examiner
+player_stats_base,PF,0.0,6.0,1.8256344387357932,1.8,13,0.1012,0,À examiner
+player_stats_base,PFD,0.0,9.8,1.1609528257823447,0.8,531,4.1336,0,À examiner
+player_stats_base,PTS,0.0,36.1,8.21152109606103,6.7,298,2.3198,0,À examiner
+player_stats_base,PLUS_MINUS,-30.7,28.0,-0.3441849602989257,-0.5,492,3.83,0,À examiner
+player_stats_base,NBA_FANTASY_PTS,-2.3,60.6,17.189280709948623,15.1,144,1.121,0,À examiner
+player_stats_base,DD2,0.0,71.0,4.26241631636307,0.0,1631,12.6966,0,À examiner
+player_stats_base,TD3,0.0,42.0,0.1231511754631792,0.0,0,0.0,0,OK
+player_stats_base,WNBA_FANTASY_PTS,0.0,60.7,16.30316051689242,14.2,144,1.121,0,À examiner
+player_stats_base,GP_RANK,1.0,589.0,235.3847890393897,235.0,0,0.0,0,OK
+player_stats_base,W_RANK,1.0,580.0,235.78070994862213,232.0,0,0.0,0,OK
+player_stats_base,L_RANK,1.0,584.0,235.43484353106024,233.0,0,0.0,0,OK
+player_stats_base,W_PCT_RANK,1.0,580.0,239.22785302817996,236.0,0,0.0,0,OK
+player_stats_base,MIN_RANK,1.0,605.0,240.34711194146038,238.0,0,0.0,0,OK
+player_stats_base,FGM_RANK,1.0,578.0,240.05309045617312,238.0,0,0.0,0,OK
+player_stats_base,FGA_RANK,1.0,597.0,240.20021796668223,238.0,0,0.0,0,OK
+player_stats_base,FG_PCT_RANK,1.0,578.0,240.05005449167055,238.0,0,0.0,0,OK
+player_stats_base,FG3M_RANK,1.0,514.0,221.91156780320722,238.0,0,0.0,0,OK
+player_stats_base,FG3A_RANK,1.0,562.0,235.38728008718667,238.0,0,0.0,0,OK
+player_stats_base,FG3_PCT_RANK,1.0,514.0,221.50537132181225,238.0,0,0.0,0,OK
+player_stats_base,FTM_RANK,1.0,543.0,239.50202397633504,238.0,0,0.0,0,OK
+player_stats_base,FTA_RANK,1.0,547.0,239.65101977269188,238.0,0,0.0,0,OK
+player_stats_base,FT_PCT_RANK,1.0,543.0,238.82803985676475,238.0,0,0.0,0,OK
+player_stats_base,OREB_RANK,1.0,557.0,239.56959364782813,238.0,0,0.0,0,OK
+player_stats_base,DREB_RANK,1.0,583.0,240.04047952670092,238.0,0,0.0,0,OK
+player_stats_base,REB_RANK,1.0,586.0,240.10688151953914,238.0,0,0.0,0,OK
+player_stats_base,AST_RANK,1.0,569.0,239.80639887902848,238.0,0,0.0,0,OK
+player_stats_base,TOV_RANK,1.0,566.0,239.7758835435155,237.0,0,0.0,0,OK
+player_stats_base,STL_RANK,1.0,554.0,239.3090456173128,238.0,0,0.0,0,OK
+player_stats_base,BLK_RANK,1.0,520.0,237.78724894908922,238.0,0,0.0,0,OK
+player_stats_base,BLKA_RANK,1.0,537.0,238.8398723338004,238.0,0,0.0,0,OK
+player_stats_base,PF_RANK,1.0,584.0,239.95461622294877,238.0,0,0.0,0,OK
+player_stats_base,PFD_RANK,1.0,564.0,209.0859411489958,179.0,0,0.0,0,OK
+player_stats_base,PTS_RANK,1.0,582.0,240.1913436089055,238.0,0,0.0,0,OK
+player_stats_base,PLUS_MINUS_RANK,1.0,605.0,240.2336135762105,238.0,0,0.0,0,OK
+player_stats_base,NBA_FANTASY_PTS_RANK,1.0,605.0,240.33753697649072,238.0,0,0.0,0,OK
+player_stats_base,DD2_RANK,1.0,268.0,169.45173594893353,194.0,0,0.0,0,OK
+player_stats_base,TD3_RANK,1.0,40.0,23.211816907986922,24.0,29,0.2258,0,À examiner
+player_stats_base,WNBA_FANTASY_PTS_RANK,1.0,596.0,240.27821890082515,238.0,0,0.0,0,OK
+player_stats_base,TEAM_COUNT,1.0,5.0,1.1287560330063833,1.0,0,0.0,0,OK
+player_stats_advanced,AGE,18.0,44.0,27.0450723960766,26.0,47,0.3659,0,À examiner
+player_stats_advanced,GP,1.0,85.0,51.1483730344076,57.0,0,0.0,0,OK
+player_stats_advanced,W,0.0,73.0,25.57200685038144,25.0,0,0.0,0,OK
+player_stats_advanced,L,0.0,71.0,25.576366184026156,25.0,4,0.0311,0,À examiner
+player_stats_advanced,W_PCT,0.0,1.0,0.48703362914525916,0.5,149,1.1599,0,À examiner
+player_stats_advanced,MIN,0.1,43.7,20.218285847734702,19.6,0,0.0,0,OK
+player_stats_advanced,E_OFF_RATING,0.0,300.0,102.36963257044994,102.8,554,4.3126,0,À examiner
+player_stats_advanced,OFF_RATING,0.0,250.0,102.02947220924803,102.9,549,4.2737,0,À examiner
+player_stats_advanced,sp_work_OFF_RATING,0.0,250.0,102.02947220924803,102.9,549,4.2737,0,À examiner
+player_stats_advanced,E_DEF_RATING,0.0,250.0,104.59402148528726,104.4,508,3.9545,0,À examiner
+player_stats_advanced,DEF_RATING,0.0,250.0,104.16985053713218,104.3,492,3.83,0,À examiner
+player_stats_advanced,sp_work_DEF_RATING,0.0,250.0,104.16985053713218,104.3,492,3.83,0,À examiner
+player_stats_advanced,E_NET_RATING,-250.0,300.0,-2.2247314339093878,-1.3,617,4.8031,0,À examiner
+player_stats_advanced,NET_RATING,-250.0,250.0,-2.1405106647983807,-1.2,644,5.0132,0,À examiner
+player_stats_advanced,sp_work_NET_RATING,-250.0,250.0,-2.1405106647983807,-1.2,644,5.0132,0,À examiner
+player_stats_advanced,AST_PCT,0.0,1.0,0.13160291141211272,0.103,405,3.1527,0,À examiner
+player_stats_advanced,AST_TO,0.0,21.0,1.4573758368363694,1.33,244,1.8994,0,À examiner
+player_stats_advanced,AST_RATIO,0.0,100.0,15.691748404172504,14.0,267,2.0785,0,À examiner
+player_stats_advanced,OREB_PCT,0.0,0.5,0.04766518760703721,0.036,57,0.4437,0,À examiner
+player_stats_advanced,DREB_PCT,0.0,1.0,0.1253328662618714,0.118,146,1.1365,0,À examiner
+player_stats_advanced,REB_PCT,0.0,0.5,0.0856120971508641,0.078,65,0.506,0,À examiner
+player_stats_advanced,TM_TOV_PCT,0.0,100.0,11.568791841818463,11.0,945,7.3564,0,À examiner
+player_stats_advanced,E_TOV_PCT,0.0,100.0,11.575027245835278,11.0,946,7.3642,0,À examiner
+player_stats_advanced,EFG_PCT,0.0,1.5,0.4773007161762417,0.487,848,6.6013,0,À examiner
+player_stats_advanced,TS_PCT,0.0,1.5,0.5131291452592246,0.525,828,6.4456,0,À examiner
+player_stats_advanced,USG_PCT,0.0,0.667,0.18129970418807412,0.177,219,1.7048,0,À examiner
+player_stats_advanced,E_USG_PCT,0.0,1.0,0.18608150397010745,0.182,216,1.6815,0,À examiner
+player_stats_advanced,E_PACE,0.0,257.54,96.44131947687995,95.78,162,1.2611,0,À examiner
+player_stats_advanced,PACE,69.82,369.23,96.92435232757279,96.13,228,1.7749,0,À examiner
+player_stats_advanced,PACE_PER40,58.18,307.69,80.7703362914526,80.11,228,1.7749,0,À examiner
+player_stats_advanced,sp_work_PACE,69.82,369.23,96.92435232757279,96.13,228,1.7749,0,À examiner
+player_stats_advanced,PIE,-4.0,4.0,0.08243538844776585,0.085,588,4.5773,0,À examiner
+player_stats_advanced,POSS,0.0,7195.0,2387.987311225284,2223.5,0,0.0,0,OK
+player_stats_advanced,FGM,0.0,978.0,186.6034563288183,143.0,232,1.806,0,À examiner
+player_stats_advanced,FGA,0.0,2173.0,410.7778296746069,322.0,193,1.5024,0,À examiner
+player_stats_advanced,FGM_PG,0.0,12.2,3.062789973532617,2.5,263,2.0473,0,À examiner
+player_stats_advanced,FGA_PG,0.0,27.8,6.833092013078001,5.7,210,1.6348,0,À examiner
+player_stats_advanced,FG_PCT,0.0,1.0,0.43568737350147907,0.438,963,7.4965,0,À examiner
+player_stats_advanced,GP_RANK,1.0,589.0,235.3847890393897,235.0,0,0.0,0,OK
+player_stats_advanced,W_RANK,1.0,580.0,235.78070994862213,232.0,0,0.0,0,OK
+player_stats_advanced,L_RANK,1.0,603.0,235.43484353106024,231.0,0,0.0,0,OK
+player_stats_advanced,W_PCT_RANK,1.0,580.0,239.22785302817996,236.0,0,0.0,0,OK
+player_stats_advanced,MIN_RANK,1.0,605.0,240.34711194146038,238.0,0,0.0,0,OK
+player_stats_advanced,E_OFF_RATING_RANK,1.0,605.0,240.3461777985365,238.0,0,0.0,0,OK
+player_stats_advanced,OFF_RATING_RANK,1.0,605.0,240.3202553323992,238.0,0,0.0,0,OK
+player_stats_advanced,sp_work_OFF_RATING_RANK,1.0,605.0,240.3202553323992,238.0,0,0.0,0,OK
+player_stats_advanced,E_DEF_RATING_RANK,1.0,605.0,240.3465670247548,238.0,0,0.0,0,OK
+player_stats_advanced,DEF_RATING_RANK,1.0,605.0,240.31659660594738,238.0,0,0.0,0,OK
+player_stats_advanced,sp_work_DEF_RATING_RANK,1.0,605.0,240.31659660594738,238.0,0,0.0,0,OK
+player_stats_advanced,E_NET_RATING_RANK,1.0,605.0,240.34711194146038,238.0,0,0.0,0,OK
+player_stats_advanced,NET_RATING_RANK,1.0,605.0,240.3453215008563,238.0,0,0.0,0,OK
+player_stats_advanced,sp_work_NET_RATING_RANK,1.0,605.0,240.3453215008563,238.0,0,0.0,0,OK
+player_stats_advanced,AST_PCT_RANK,1.0,569.0,240.00864082204578,238.0,0,0.0,0,OK
+player_stats_advanced,AST_TO_RANK,1.0,549.0,239.3149618558306,238.0,0,0.0,0,OK
+player_stats_advanced,AST_RATIO_RANK,1.0,569.0,239.97765841507083,238.0,0,0.0,0,OK
+player_stats_advanced,OREB_PCT_RANK,1.0,557.0,239.68667289428615,238.0,0,0.0,0,OK
+player_stats_advanced,DREB_PCT_RANK,1.0,583.0,240.0503658726452,238.0,0,0.0,0,OK
+player_stats_advanced,REB_PCT_RANK,1.0,586.0,239.96419118791843,238.0,0,0.0,0,OK
+player_stats_advanced,TM_TOV_PCT_RANK,1.0,602.0,240.02849135917796,238.0,0,0.0,0,OK
+player_stats_advanced,E_TOV_PCT_RANK,1.0,602.0,240.13622917639734,238.0,0,0.0,0,OK
+player_stats_advanced,EFG_PCT_RANK,1.0,578.0,240.0741865172038,238.0,0,0.0,0,OK
+player_stats_advanced,TS_PCT_RANK,1.0,582.0,240.28335668690644,238.0,0,0.0,0,OK
+player_stats_advanced,USG_PCT_RANK,1.0,598.0,240.32500389226217,238.0,0,0.0,0,OK
+player_stats_advanced,E_USG_PCT_RANK,1.0,598.0,240.34306398879028,238.0,0,0.0,0,OK
+player_stats_advanced,E_PACE_RANK,1.0,605.0,240.3472676319477,238.0,0,0.0,0,OK
+player_stats_advanced,PACE_RANK,1.0,605.0,240.34718978670404,238.0,0,0.0,0,OK
+player_stats_advanced,sp_work_PACE_RANK,1.0,605.0,240.34718978670404,238.0,0,0.0,0,OK
+player_stats_advanced,PIE_RANK,1.0,604.0,240.33084228553636,238.0,0,0.0,0,OK
+player_stats_advanced,FGM_RANK,1.0,578.0,239.57122839794488,238.0,0,0.0,0,OK
+player_stats_advanced,FGA_RANK,1.0,597.0,240.01479059629457,238.0,0,0.0,0,OK
+player_stats_advanced,FGM_PG_RANK,1.0,578.0,240.05309045617312,238.0,0,0.0,0,OK
+player_stats_advanced,FGA_PG_RANK,1.0,597.0,240.20021796668223,238.0,0,0.0,0,OK
+player_stats_advanced,FG_PCT_RANK,1.0,578.0,240.05005449167055,238.0,0,0.0,0,OK
+player_stats_advanced,TEAM_COUNT,1.0,5.0,1.1287560330063833,1.0,0,0.0,0,OK
+team_stats_base,GP,50.0,82.0,79.44139650872818,82.0,0,0.0,0,OK
+team_stats_base,W,7.0,73.0,39.72069825436409,41.0,0,0.0,0,OK
+team_stats_base,L,9.0,72.0,39.72069825436409,39.0,0,0.0,0,OK
+team_stats_base,W_PCT,0.106,0.89,0.49981047381546134,0.512,0,0.0,0,OK
+team_stats_base,MIN,48.0,49.0,48.35049875311721,48.4,4,0.4988,0,À examiner
+team_stats_base,FGM,30.8,44.7,37.597132169576064,37.25,2,0.2494,0,À examiner
+team_stats_base,FGA,71.2,94.4,82.80511221945137,82.4,0,0.0,0,OK
+team_stats_base,FG_PCT,0.401,0.504,0.45392144638403986,0.454,11,1.3716,0,À examiner
+team_stats_base,FG3M,2.0,16.7,7.5239401496259335,6.7,2,0.2494,0,À examiner
+team_stats_base,FG3A,7.4,45.4,21.105112219451375,19.0,2,0.2494,0,À examiner
+team_stats_base,FG3_PCT,0.264,0.428,0.35440024937655856,0.354,16,1.995,0,À examiner
+team_stats_base,FTM,12.2,24.9,18.20361596009975,18.1,7,0.8728,0,À examiner
+team_stats_base,FTA,16.6,33.5,24.052992518703242,23.95,7,0.8728,0,À examiner
+team_stats_base,FT_PCT,0.66,0.839,0.757775561097257,0.759,11,1.3716,0,À examiner
+team_stats_base,OREB,7.6,17.2,11.216708229426432,11.1,9,1.1222,0,À examiner
+team_stats_base,DREB,24.9,42.2,31.38815461346633,31.2,2,0.2494,0,À examiner
+team_stats_base,REB,35.8,51.7,42.60236907730674,42.5,8,0.9975,0,À examiner
+team_stats_base,AST,15.6,30.4,22.27705735660848,22.05,7,0.8728,0,À examiner
+team_stats_base,TOV,11.1,19.0,14.553117206982542,14.5,12,1.4963,0,À examiner
+team_stats_base,STL,5.5,12.0,7.674064837905237,7.6,10,1.2469,0,À examiner
+team_stats_base,BLK,2.4,8.2,4.903865336658354,4.9,8,0.9975,0,À examiner
+team_stats_base,BLKA,3.0,6.9,4.9046134663341645,4.9,1,0.1247,0,À examiner
+team_stats_base,PF,16.6,27.1,21.063965087281794,20.9,6,0.7481,0,À examiner
+team_stats_base,PFD,0.0,25.7,13.93778054862843,19.6,0,0.0,0,OK
+team_stats_base,PTS,81.9,120.7,100.92493765586035,99.45,0,0.0,0,OK
+team_stats_base,PLUS_MINUS,-13.9,11.6,-0.0054862842892768205,0.25,1,0.1247,0,À examiner
+team_stats_base,GP_RANK,1.0,30.0,1.5112219451371571,1.0,0,0.0,0,OK
+team_stats_base,W_RANK,1.0,30.0,15.058603491271821,15.0,0,0.0,0,OK
+team_stats_base,L_RANK,1.0,30.0,15.053615960099751,15.0,0,0.0,0,OK
+team_stats_base,W_PCT_RANK,1.0,30.0,15.069825436408978,15.0,0,0.0,0,OK
+team_stats_base,MIN_RANK,1.0,30.0,14.098503740648379,13.0,0,0.0,0,OK
+team_stats_base,FGM_RANK,1.0,30.0,15.331670822942643,15.0,0,0.0,0,OK
+team_stats_base,FGA_RANK,1.0,30.0,15.336658354114713,15.0,0,0.0,0,OK
+team_stats_base,FG_PCT_RANK,1.0,30.0,15.355361596009976,15.0,0,0.0,0,OK
+team_stats_base,FG3M_RANK,1.0,30.0,15.326683291770573,15.0,0,0.0,0,OK
+team_stats_base,FG3A_RANK,1.0,30.0,15.339152119700747,15.0,0,0.0,0,OK
+team_stats_base,FG3_PCT_RANK,1.0,30.0,15.355361596009976,15.0,0,0.0,0,OK
+team_stats_base,FTM_RANK,1.0,30.0,15.331670822942643,15.0,0,0.0,0,OK
+team_stats_base,FTA_RANK,1.0,30.0,15.325436408977556,15.0,0,0.0,0,OK
+team_stats_base,FT_PCT_RANK,1.0,30.0,15.355361596009976,15.0,0,0.0,0,OK
+team_stats_base,OREB_RANK,1.0,30.0,15.32294264339152,15.0,0,0.0,0,OK
+team_stats_base,DREB_RANK,1.0,30.0,15.316708229426434,15.0,0,0.0,0,OK
+team_stats_base,REB_RANK,1.0,30.0,15.33291770573566,15.0,0,0.0,0,OK
+team_stats_base,AST_RANK,1.0,30.0,15.321695760598503,15.0,0,0.0,0,OK
+team_stats_base,TOV_RANK,1.0,30.0,15.311720698254364,15.0,0,0.0,0,OK
+team_stats_base,STL_RANK,1.0,30.0,15.293017456359102,15.0,0,0.0,0,OK
+team_stats_base,BLK_RANK,1.0,30.0,15.296758104738155,15.0,0,0.0,0,OK
+team_stats_base,BLKA_RANK,1.0,30.0,15.298004987531172,15.0,0,0.0,0,OK
+team_stats_base,PF_RANK,1.0,30.0,15.315461346633416,15.0,0,0.0,0,OK
+team_stats_base,PFD_RANK,1.0,30.0,14.861596009975063,14.5,0,0.0,0,OK
+team_stats_base,PTS_RANK,1.0,30.0,15.345386533665835,15.0,0,0.0,0,OK
+team_stats_base,PLUS_MINUS_RANK,1.0,30.0,15.350374064837906,15.0,0,0.0,0,OK
+team_stats_advanced,GP,50.0,82.0,79.44139650872818,82.0,0,0.0,0,OK
+team_stats_advanced,W,7.0,73.0,39.72069825436409,41.0,0,0.0,0,OK
+team_stats_advanced,L,9.0,72.0,39.72069825436409,39.0,0,0.0,0,OK
+team_stats_advanced,W_PCT,0.106,0.89,0.49981047381546134,0.512,0,0.0,0,OK
+team_stats_advanced,MIN,2405.0,4016.0,3841.337905236908,3961.0,121,15.0873,0,À examiner
+team_stats_advanced,E_OFF_RATING,88.9,117.0,104.25087281795513,103.9,3,0.3741,0,À examiner
+team_stats_advanced,OFF_RATING,91.2,118.6,105.85536159600997,105.4,3,0.3741,0,À examiner
+team_stats_advanced,E_DEF_RATING,91.6,117.7,104.24563591022444,104.2,3,0.3741,0,À examiner
+team_stats_advanced,DEF_RATING,93.1,119.6,105.84887780548628,105.7,3,0.3741,0,À examiner
+team_stats_advanced,E_NET_RATING,-15.5,12.1,0.0048628428927681225,0.4,1,0.1247,0,À examiner
+team_stats_advanced,NET_RATING,-15.0,11.8,0.005112219451371605,0.3,2,0.2494,0,À examiner
+team_stats_advanced,AST_PCT,0.472,0.727,0.5923229426433916,0.591,10,1.2469,0,À examiner
+team_stats_advanced,AST_TO,1.01,2.19,1.5430299251870323,1.53,6,0.7481,0,À examiner
+team_stats_advanced,AST_RATIO,13.0,21.2,16.951122194513715,16.9,9,1.1222,0,À examiner
+team_stats_advanced,OREB_PCT,0.216,0.383,0.2991284289276808,0.3,0,0.0,0,OK
+team_stats_advanced,DREB_PCT,0.602,0.775,0.7005623441396509,0.7,4,0.4988,0,À examiner
+team_stats_advanced,REB_PCT,0.453,0.541,0.5000137157107232,0.5,4,0.4988,0,À examiner
+team_stats_advanced,TM_TOV_PCT,0.112,0.208,0.15302618453865335,0.152,6,0.7481,0,À examiner
+team_stats_advanced,EFG_PCT,0.424,0.575,0.4988142144638404,0.496,1,0.1247,0,À examiner
+team_stats_advanced,TS_PCT,0.468,0.61,0.5399476309226933,0.538,7,0.8728,0,À examiner
+team_stats_advanced,E_PACE,85.2,107.2,96.01571072319203,95.3,0,0.0,0,OK
+team_stats_advanced,PACE,84.31,105.51,94.55780548628427,93.925,0,0.0,0,OK
+team_stats_advanced,PACE_PER40,70.25,87.93,78.79829177057356,78.275,0,0.0,0,OK
+team_stats_advanced,POSS,4325.0,8642.0,7568.635910224439,7695.0,66,8.2294,0,À examiner
+team_stats_advanced,PIE,0.402,0.591,0.49998379052369074,0.502,1,0.1247,0,À examiner
+team_stats_advanced,GP_RANK,1.0,30.0,1.5112219451371571,1.0,0,0.0,0,OK
+team_stats_advanced,W_RANK,1.0,30.0,15.058603491271821,15.0,0,0.0,0,OK
+team_stats_advanced,L_RANK,1.0,30.0,15.053615960099751,15.0,0,0.0,0,OK
+team_stats_advanced,W_PCT_RANK,1.0,30.0,15.069825436408978,15.0,0,0.0,0,OK
+team_stats_advanced,MIN_RANK,1.0,30.0,14.098503740648379,13.0,0,0.0,0,OK
+team_stats_advanced,OFF_RATING_RANK,1.0,30.0,15.355361596009976,15.0,0,0.0,0,OK
+team_stats_advanced,DEF_RATING_RANK,1.0,30.0,15.355361596009976,15.0,0,0.0,0,OK
+team_stats_advanced,NET_RATING_RANK,1.0,30.0,15.355361596009976,15.0,0,0.0,0,OK
+team_stats_advanced,AST_PCT_RANK,1.0,30.0,15.355361596009976,15.0,0,0.0,0,OK
+team_stats_advanced,AST_TO_RANK,1.0,30.0,15.355361596009976,15.0,0,0.0,0,OK
+team_stats_advanced,AST_RATIO_RANK,1.0,30.0,15.355361596009976,15.0,0,0.0,0,OK
+team_stats_advanced,OREB_PCT_RANK,1.0,30.0,15.355361596009976,15.0,0,0.0,0,OK
+team_stats_advanced,DREB_PCT_RANK,1.0,30.0,15.355361596009976,15.0,0,0.0,0,OK
+team_stats_advanced,REB_PCT_RANK,1.0,30.0,15.355361596009976,15.0,0,0.0,0,OK
+team_stats_advanced,TM_TOV_PCT_RANK,1.0,30.0,15.355361596009976,15.0,0,0.0,0,OK
+team_stats_advanced,EFG_PCT_RANK,1.0,30.0,15.355361596009976,15.0,0,0.0,0,OK
+team_stats_advanced,TS_PCT_RANK,1.0,30.0,15.355361596009976,15.0,0,0.0,0,OK
+team_stats_advanced,PACE_RANK,1.0,30.0,15.352867830423941,15.0,0,0.0,0,OK
+team_stats_advanced,PIE_RANK,1.0,30.0,15.355361596009976,15.0,0,0.0,0,OK
+rosters,NUM,0.0,99.0,19.358873045868407,15.0,126,1.0823,0,À examiner
+rosters,WEIGHT,133.0,343.0,221.5976696367375,220.0,50,0.4284,0,À examiner
+rosters,AGE,18.0,44.0,26.973697738176835,26.0,44,0.377,0,À examiner
+rosters,SUPPLEMENTAL_STATUS,0.0,0.0,0.0,0.0,0,0.0,0,OK
+kaggle_all_seasons,age,18.0,44.0,27.045312986608533,26.0,47,0.3659,0,À examiner
+kaggle_all_seasons,player_height,160.02,231.14,200.555096543133,200.66,19,0.1479,0,À examiner
+kaggle_all_seasons,player_weight,60.327736,163.29312,100.26327920211773,99.79024,57,0.4438,0,À examiner
+kaggle_all_seasons,gp,1.0,85.0,51.15415758330738,57.0,0,0.0,0,OK
+kaggle_all_seasons,pts,0.0,36.1,8.212581750233571,6.7,298,2.3201,0,À examiner
+kaggle_all_seasons,reb,0.0,16.3,3.5584864528184363,3.0,524,4.0797,0,À examiner
+kaggle_all_seasons,ast,0.0,11.7,1.8246807848022424,1.2,841,6.5478,0,À examiner
+kaggle_all_seasons,net_rating,-250.0,300.0,-2.2263391466832765,-1.3,622,4.8427,0,À examiner
+kaggle_all_seasons,oreb_pct,0.0,1.0,0.054073108066023036,0.04,76,0.5917,0,À examiner
+kaggle_all_seasons,dreb_pct,0.0,1.0,0.14064598255995017,0.1305,137,1.0666,0,À examiner
+kaggle_all_seasons,usg_pct,0.0,1.0,0.18464076611647462,0.181,210,1.635,0,À examiner
+kaggle_all_seasons,ts_pct,0.0,1.5,0.5131383525381501,0.525,842,6.5556,0,À examiner
+kaggle_all_seasons,ast_pct,0.0,1.0,0.13159514170040487,0.103,405,3.1532,0,À examiner

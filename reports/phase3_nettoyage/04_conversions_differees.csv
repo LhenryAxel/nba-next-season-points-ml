@@ -1,0 +1,9 @@
+source,colonne,type_actuel,raison
+player_bio,DRAFT_YEAR,string,Contient la valeur métier Undrafted
+player_bio,DRAFT_ROUND,string,Contient la valeur métier Undrafted
+player_bio,DRAFT_NUMBER,string,Contient la valeur métier Undrafted
+kaggle_all_seasons,draft_year,object,Contient la valeur métier Undrafted
+kaggle_all_seasons,draft_round,object,Contient la valeur métier Undrafted
+kaggle_all_seasons,draft_number,object,Contient la valeur métier Undrafted
+rosters,EXP,string,Contient R pour Rookie
+rosters,HEIGHT,string,Format pieds-pouces à uniformiser pendant la standardisation

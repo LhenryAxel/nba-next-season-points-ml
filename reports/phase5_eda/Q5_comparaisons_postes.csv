@@ -1,0 +1,4 @@
+poste_1,poste_2,mediane_1,mediane_2,p_value,p_value_bonferroni,significatif_5pct
+Guard,Forward,8.9,7.7,4.448544608481299e-12,1.3345633825443897e-11,True
+Guard,Center,8.9,6.1,4.204214071846176e-51,1.2612642215538528e-50,True
+Forward,Center,7.7,6.1,1.8434427994458917e-22,5.530328398337675e-22,True

@@ -1,0 +1,9 @@
+feature,pearson_instabilite,spearman_instabilite
+AGE,-0.06,-0.05
+EXP_YEARS,-0.022,-0.016
+PTS,0.155,0.18
+MIN,0.115,0.136
+FGA,0.162,0.184
+USG_PCT,0.178,0.17
+PTS_PREV,0.139,0.139
+PTS_CAREER_AVG_PREV,0.125,0.126

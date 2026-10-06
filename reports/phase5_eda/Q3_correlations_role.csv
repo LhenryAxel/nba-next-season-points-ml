@@ -1,0 +1,4 @@
+feature,pearson_cible,spearman_cible,pearson_variation,spearman_variation
+MIN,0.718,0.731,-0.263,-0.252
+FGA,0.838,0.797,-0.225,-0.236
+USG_PCT,0.668,0.607,-0.092,-0.08

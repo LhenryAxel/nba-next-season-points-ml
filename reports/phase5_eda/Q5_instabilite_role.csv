@@ -1,0 +1,13 @@
+groupe,forte_variation_pct,variable
+< 15 min,9.141716566866268,Temps de jeu
+15-25 min,10.300820419325433,Temps de jeu
+25-32 min,15.181818181818182,Temps de jeu
+32+ min,14.308093994778067,Temps de jeu
+< 5 tirs,7.730600292825769,Volume de tirs
+5-10 tirs,11.953041622198505,Volume de tirs
+10-15 tirs,16.69316375198728,Volume de tirs
+15+ tirs,17.305458768873404,Volume de tirs
+< 15 %,5.884790716949855,Usage
+15-20 %,11.375,Usage
+20-25 %,15.344129554655868,Usage
+25+ %,19.45525291828794,Usage

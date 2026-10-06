@@ -1,0 +1,5 @@
+source,colonne,valeur,candidat,decision,raison
+player_bio,COUNTRY,DRC,Democratic Republic of the Congo,Non modifié,Correspondance détectée pendant le diagnostic mais marquée comme nécessitant une vérification.
+kaggle_all_seasons,country,DRC,Democratic Republic of the Congo,Non modifié,Correspondance détectée pendant le diagnostic mais marquée comme nécessitant une vérification.
+plusieurs,PLAYER_NAME / player_name,Variantes d'accents et d'orthographe,Aucun mapping forcé,Non modifié,PLAYER_ID sera utilisé comme identifiant fiable. Les noms ne doivent pas être altérés inutilement.
+plusieurs,COLLEGE / SCHOOL / college,Différences inter-sources restantes,Mappings à confirmer au cas par cas,Non modifié,Certaines différences correspondent à de vrais établissements distincts ou à des clubs étrangers.

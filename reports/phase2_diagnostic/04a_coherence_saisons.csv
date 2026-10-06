@@ -1,0 +1,8 @@
+source,colonne_saison,valeurs_distinctes,formats_invalides,exemples_invalides
+player_bio,SEASON,27,0,
+player_stats_base,SEASON,27,0,
+player_stats_advanced,SEASON,27,0,
+team_stats_base,SEASON,27,0,
+team_stats_advanced,SEASON,27,0,
+rosters,SEASON,27,0,
+kaggle_all_seasons,season,27,0,

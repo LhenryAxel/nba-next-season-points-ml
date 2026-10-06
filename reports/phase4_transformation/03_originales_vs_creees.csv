@@ -1,0 +1,13 @@
+categorie,nombre,exemples
+Originales - Player Bio,11,"COLLEGE, COUNTRY, DRAFT_YEAR, DRAFT_ROUND, DRAFT_NUMBER"
+Originales - Rosters,2,"POSITION, EXP_YEARS"
+Originales - Statistiques joueur avancées,56,"E_OFF_RATING, OFF_RATING, sp_work_OFF_RATING, E_DEF_RATING, DEF_RATING"
+Originales - Statistiques joueur de base,68,"PLAYER_ID, PLAYER_NAME, SEASON, TEAM_ID, TEAM_ABBREVIATION"
+Originales - Statistiques équipe,86,"TEAM_GP, TEAM_W, TEAM_L, TEAM_W_PCT, TEAM_MIN"
+Features temporelles,2,"SEASON_START_YEAR, SEASON_INDEX"
+Features historiques,10,"PTS_PREV, MIN_PREV, AST_PREV, REB_PREV, USG_PCT_PREV"
+Features calculées,5,"PTS_PER_MIN, FGA_PER_MIN, FG3A_RATE, FTA_RATE, AST_TO_TOV"
+Features agrégées,4,"PTS_CAREER_AVG_PREV, MIN_CAREER_AVG_PREV, AST_CAREER_AVG_PREV, REB_CAREER_AVG_PREV"
+Features catégorielles,2,"AGE_GROUP, EXPERIENCE_GROUP"
+Features indicateurs,4,"HAS_PREVIOUS_SEASON, IS_ROOKIE, MULTI_TEAM_SEASON, ROSTER_AVAILABLE"
+Cible,1,pts_next_season

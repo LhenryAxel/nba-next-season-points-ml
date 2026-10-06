@@ -1,0 +1,41 @@
+#,source,colonne,probleme,action,lignes_affectees,justification
+1,player_bio,-,Doublons exacts,Aucune suppression nécessaire,0,Les doublons exacts n'apportent aucune information supplémentaire. La première occurrence est conservée.
+2,player_stats_base,-,Doublons exacts,Aucune suppression nécessaire,0,Les doublons exacts n'apportent aucune information supplémentaire. La première occurrence est conservée.
+3,player_stats_advanced,-,Doublons exacts,Aucune suppression nécessaire,0,Les doublons exacts n'apportent aucune information supplémentaire. La première occurrence est conservée.
+4,team_stats_base,-,Doublons exacts,Aucune suppression nécessaire,0,Les doublons exacts n'apportent aucune information supplémentaire. La première occurrence est conservée.
+5,team_stats_advanced,-,Doublons exacts,Aucune suppression nécessaire,0,Les doublons exacts n'apportent aucune information supplémentaire. La première occurrence est conservée.
+6,rosters,-,Doublons exacts,Aucune suppression nécessaire,0,Les doublons exacts n'apportent aucune information supplémentaire. La première occurrence est conservée.
+7,kaggle_all_seasons,-,Doublons exacts,Aucune suppression nécessaire,0,Les doublons exacts n'apportent aucune information supplémentaire. La première occurrence est conservée.
+8,kaggle_all_seasons,Unnamed: 0,Index technique issu de l'export CSV,Suppression de la colonne,12844,La colonne contient uniquement l'index séquentiel des lignes et n'apporte aucune information métier.
+9,player_bio,PLAYER_WEIGHT,Type de données,Conversion vers Float64,12775,La colonne contient une information numérique et la conversion a été validée sans perte de valeur métier.
+10,rosters,WEIGHT,Type de données,Conversion vers Float64,11672,La colonne contient une information numérique et la conversion a été validée sans perte de valeur métier.
+11,rosters,AGE,Type de données,Conversion vers Int64,11672,La colonne contient une information numérique et la conversion a été validée sans perte de valeur métier.
+12,rosters,NUM,Type de données,Conversion vers Int64,11642,La colonne contient une information numérique et la conversion a été validée sans perte de valeur métier.
+13,rosters,BIRTH_DATE,Type de données,Conversion vers datetime64[ns],11672,"Toutes les dates respectent le format '%b %d, %Y' et sont convertibles sans erreur."
+14,rosters,SCHOOL,Espaces superflus,Application de strip(),2,Les espaces en début ou fin de chaîne n'apportent aucune information métier.
+15,kaggle_all_seasons,college,Espaces superflus,Application de strip(),7,Les espaces en début ou fin de chaîne n'apportent aucune information métier.
+16,player_stats_base,NICKNAME,Variantes orthographiques,Mapping vers une écriture unique,15,Les variantes avaient été identifiées comme représentant le même libellé.
+17,player_stats_advanced,NICKNAME,Variantes orthographiques,Mapping vers une écriture unique,15,Les variantes avaient été identifiées comme représentant le même libellé.
+18,rosters,NICKNAME,Variantes orthographiques,Mapping vers une écriture unique,19,Les variantes avaient été identifiées comme représentant le même libellé.
+19,kaggle_all_seasons,college,Variation orthographique,Mapping vers Indiana-Purdue Indianapolis,9,Les deux écritures avaient été identifiées comme une même valeur lors du diagnostic.
+20,rosters,EXP_YEARS,Format mixte de l'expérience,Création d'une représentation numérique avec R = 0,11672,La valeur R représente un rookie. La représentation standardisée correspond à 0 année d'expérience NBA antérieure.
+21,player_bio,PLAYER_HEIGHT_CM,Unités hétérogènes entre sources,Standardisation de l'unité,12775,Conversion des pouces vers les centimètres
+22,player_bio,PLAYER_WEIGHT_KG,Unités hétérogènes entre sources,Standardisation de l'unité,12775,Conversion des livres vers les kilogrammes
+23,rosters,PLAYER_HEIGHT_CM,Unités hétérogènes entre sources,Standardisation de l'unité,11672,Conversion du format pieds-pouces vers les centimètres
+24,rosters,PLAYER_WEIGHT_KG,Unités hétérogènes entre sources,Standardisation de l'unité,11672,Conversion des livres vers les kilogrammes
+25,kaggle_all_seasons,PLAYER_HEIGHT_CM,Unités hétérogènes entre sources,Standardisation de l'unité,12844,Reprise de la taille déjà exprimée en centimètres
+26,kaggle_all_seasons,PLAYER_WEIGHT_KG,Unités hétérogènes entre sources,Standardisation de l'unité,12844,Reprise du poids déjà exprimé en kilogrammes
+27,rosters,SCHOOL,Valeurs manquantes représentées sous forme textuelle,Conversion des marqueurs textuels vers pd.NA,2,Les valeurs ne représentent pas une information métier et sont normalisées comme valeurs manquantes natives.
+28,kaggle_all_seasons,college,Valeurs manquantes représentées sous forme textuelle,Conversion des marqueurs textuels vers pd.NA,5,Les valeurs ne représentent pas une information métier et sont normalisées comme valeurs manquantes natives.
+29,rosters,HOW_ACQUIRED,Taux de valeurs manquantes critique,Suppression de la colonne,11672,"Colonne manquante sur environ 97 % des lignes, absence fortement systématique et faible intérêt pour la prédiction des performances. Valeurs manquantes : 11280/11672."
+30,rosters,SUPPLEMENTAL_STATUS,Taux de valeurs manquantes critique,Suppression de la colonne,11672,Plus de 50 % de valeurs manquantes et absence liée à une évolution du schéma de la source roster. Valeurs manquantes : 5843/11672.
+31,player_bio,COLLEGE_IS_MISSING,Information manquante conservée,Création d'un indicateur binaire de valeur manquante,1821,Indique explicitement l'absence d'information sur le college.
+32,player_bio,DRAFT_INFO_IS_MISSING,Information manquante conservée,Création d'un indicateur binaire de valeur manquante,104,Indique qu'au moins une information de draft est absente.
+33,player_bio,PLAYER_HEIGHT_IS_MISSING,Information manquante conservée,Création d'un indicateur binaire de valeur manquante,71,Indique l'absence de taille dans la représentation standardisée.
+34,player_bio,PLAYER_WEIGHT_IS_MISSING,Information manquante conservée,Création d'un indicateur binaire de valeur manquante,71,Indique l'absence de poids dans la représentation standardisée.
+35,rosters,NUM_IS_MISSING,Information manquante conservée,Création d'un indicateur binaire de valeur manquante,30,Conserve le joueur tout en signalant l'absence du numéro.
+36,rosters,SCHOOL_IS_MISSING,Information manquante conservée,Création d'un indicateur binaire de valeur manquante,6,Conserve le joueur tout en signalant l'absence d'établissement.
+37,rosters,PLAYER_SLUG_IS_MISSING,Information manquante conservée,Création d'un indicateur binaire de valeur manquante,4,Signale l'absence du champ technique sans supprimer la ligne.
+38,rosters,NICKNAME_IS_MISSING,Information manquante conservée,Création d'un indicateur binaire de valeur manquante,4,Signale l'absence du surnom sans supprimer la ligne.
+39,kaggle_all_seasons,COLLEGE_IS_MISSING,Information manquante conservée,Création d'un indicateur binaire de valeur manquante,1859,Indique explicitement l'absence d'information sur le college.
+40,toutes_sources,colonnes numériques,Outliers IQR,Conservation sans modification,0,Les valeurs extrêmes détectées ne violent aucune règle métier. Elles sont considérées comme des observations NBA plausibles et sont conservées.

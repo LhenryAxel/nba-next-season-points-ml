@@ -1,0 +1,2 @@
+source,colonne,format_attendu,valeurs_analysees,dates_non_convertibles,exemples_invalides,fuseau_horaire
+rosters,BIRTH_DATE,"MMM DD, YYYY",11672,0,,Non applicable : date sans heure

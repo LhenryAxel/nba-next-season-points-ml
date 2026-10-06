@@ -1,0 +1,16 @@
+source,colonne,manquants,pourcentage
+rosters,HOW_ACQUIRED,11280,96.6415
+rosters,SUPPLEMENTAL_STATUS,5843,50.06
+kaggle_all_seasons,college,1859,14.4737
+player_bio,COLLEGE,1821,14.1756
+player_bio,DRAFT_NUMBER,104,0.8096
+player_bio,DRAFT_ROUND,95,0.7395
+player_bio,PLAYER_HEIGHT,71,0.5527
+player_bio,PLAYER_HEIGHT_INCHES,71,0.5527
+player_bio,PLAYER_WEIGHT,71,0.5527
+player_bio,PLAYER_HEIGHT_CM,71,0.5527
+player_bio,PLAYER_WEIGHT_KG,71,0.5527
+rosters,NUM,30,0.257
+rosters,SCHOOL,6,0.0514
+rosters,NICKNAME,4,0.0343
+rosters,PLAYER_SLUG,4,0.0343

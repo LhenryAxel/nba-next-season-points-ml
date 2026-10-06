@@ -1,0 +1,29 @@
+{
+    "project": "NBA Next Season Points ML",
+    "version": "v1",
+    "creation_date": "2026-10-05",
+    "target": "pts_next_season",
+    "problem_type": "regression",
+    "model": "Ridge",
+    "alpha": 100.0,
+    "main_metric": "MAE",
+    "train_period": "1996-97 to 2011-12",
+    "validation_period": "2012-13 to 2016-17",
+    "test_period": "2017-18 to 2021-22",
+    "test_MAE": 2.39293,
+    "test_RMSE": 3.104185,
+    "test_R2": 0.774507,
+    "persistence_test_MAE": 2.558404,
+    "dataset_rows": 9911,
+    "dataset_columns": 251,
+    "excluded_features": [
+        "pts_next_season",
+        "PLAYER_ID",
+        "PLAYER_NAME",
+        "NICKNAME",
+        "TEAM_ID",
+        "TEAM_ABBREVIATION",
+        "SEASON"
+    ],
+    "model_file": "nba_pts_ridge_pipeline_v1_20261005.joblib"
+}
